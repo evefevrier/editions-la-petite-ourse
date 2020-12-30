@@ -10,5 +10,6 @@ __Dégager un peu de lumière.__
 
 ## Projets numériques
 - Robots-roman 2020
+
 ## Projets de livres imprimés
 - Ces parts d'ombre, Richard Baillargeon
