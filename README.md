@@ -10,6 +10,7 @@ __Dégager un peu de lumière.__
 
 ## Projets numériques
 - [Robots-roman 2020](https://evefevrier.github.io/robots-roman-2020/)
+- L'anticoste, Richard Baillargeon (à paraître au printemps 2021)
 
 ## Projets de livres imprimés
-- Ces parts d'ombre, Richard Baillargeon
+- Ces parts d'ombre, Richard Baillargeon (à paraître au printemps 2021)
