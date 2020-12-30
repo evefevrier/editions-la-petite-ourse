@@ -1,5 +1,7 @@
 # Tite tit Ours.e
 
+« Ursa Minor, abrégé UMi et appelée en français la Petite Ourse, est une petite constellation qui dégage peu de lumière comparée aux autres. » - [Vikidia](https://fr.vikidia.org/wiki/Petite_Ourse) 
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/evefevrier/tit-tite-ourse/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
