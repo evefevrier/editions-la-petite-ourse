@@ -14,3 +14,11 @@ __Dégager un peu de lumière.__
 
 ## Projets de livres imprimés
 - Ces parts d'ombre, Richard Baillargeon (à paraître au printemps 2021)
+
+## À la recherche de collaborateur.trice.s
+### Auteur.trice.s
+### Développeur.e.s Web
+### Délégué.e.s à la distribution
+### Ingénieux.se.s du socio-financement
+
+Écrire à editionsLaPetiteOurse à gmail.com
