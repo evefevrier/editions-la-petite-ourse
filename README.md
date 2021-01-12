@@ -20,9 +20,8 @@ __Dégager un peu de lumière.__
 - Développeur.e.s Web
 - Délégué.e.s à la distribution
 - Ingénieux.se.s du socio-financement
+Écrire à editionsLaPetiteOurse à gmail.com
 
 ## Articles suggérés
-- [Pour la planète, vaut-il mieux lire sur papier ou en numérique?](https://www.ledevoir.com/lire/589417/pour-la-planete-vaut-il-mieux-lire-sur-papier-ou-en-numerique#:~:text=C%C3%B4t%C3%A9%20livre%20traditionnel%2C%20c'est,qui%20p%C3%A8se%20le%20plus%20lourd.)  
+- [Pour la planète, vaut-il mieux lire sur papier ou en numérique?](https://www.ledevoir.com/lire/589417/pour-la-planete-vaut-il-mieux-lire-sur-papier-ou-en-numerique)  
 Catherine Lalonde, Le Devoir, 10 novembre 2020.
-
-Écrire à editionsLaPetiteOurse à gmail.com
