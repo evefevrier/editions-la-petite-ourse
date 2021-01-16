@@ -11,7 +11,7 @@ __Dégager un peu de lumière.__
 ## Projets numériques
 - [Robots-roman 2020](https://evefevrier.github.io/robots-roman-2020/)
 - Anticoste, Richard Baillargeon (Mise en ligne coordonnée avec l'exposition à venir, été 2021)  
-En guise de préambule, voici [une vidéo réalisee pour préparer le projet](https://vimeo.com/501269045) qui sera réalisé avec l'aide des étudiants du programme [Techniques d'intégration multimédia du Cégep de Sainte-Foy](https://timcsf.cegep-ste-foy.qc.ca/)
+Entrevue *zoom* avec l'artiste [https://vimeo.com/501269045](https://vimeo.com/501269045).
 
 ## Projets de livres imprimés
 - Ces parts d'ombre, Richard Baillargeon (à paraître au printemps 2021)
