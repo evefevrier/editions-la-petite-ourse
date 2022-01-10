@@ -24,6 +24,6 @@ Accueillir écrits et projets artistiques pour publication numérique ou sur pap
 
 Écrire à __editionsLaPetiteOurse__ à __gmail dot com__  
 
-
+[Ève Février](mailto:editionsLaPetiteOurse@gmail.com)
 [Éditions la petite Ourse](https://evefevrier.github.io/editions-la-petite-ourse/)
  
