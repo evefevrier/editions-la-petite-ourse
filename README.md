@@ -23,4 +23,7 @@ Accueillir écrits et projets artistiques pour publication numérique ou sur pap
 - Ingénieux.se.s du socio-financement  
 
 Écrire à __editionsLaPetiteOurse__ à __gmail dot com__  
+
+
+[Éditions la petite Ourse](https://evefevrier.github.io/editions-la-petite-ourse/)
  
