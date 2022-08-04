@@ -6,17 +6,20 @@
   
   
 ## Mission
-Accueillir écrits et projets artistiques pour publication numérique ou sur papier. Les oeuvres numériques peuvent être des livres interactifs au format epub ou des oeuvres immersives voires installatives.
+Encourager la relève artistique et littéraire sans aucune limite d'âge ou d'origine pourvu que les oeuvres soient résolument bouleversantes. Accueillir écrits et projets artistiques pour publication numérique ou sur papier. Les oeuvres numériques peuvent être de différentes natures: livres interactifs, oeuvres immersives voires installatives, art génératif, programmation créative par exemples.
 
 ## Projets numériques
 - [Robots-roman 2021](https://evefevrier.github.io/robots-roman/)
-- [Robots-roman 2020](https://evefevrier.github.io/robots-roman/2020/)
-- Anticoste, Richard Baillargeon (initialement prévu pour l'été 2021, ce projet est reporté)  
+- [Robots-roman 2020](https://evefevrier.github.io/robots-roman/2020/)  
+
+## Jeu "Mots de tête"
+### [Jouer à "Mots de tête"]()
+### [Consulter le code du jeu et/ou y collaborer]()
 
 ## Projets de livres imprimés
 - Ces parts d'ombre, Richard Baillargeon (à paraître)
 
-## À la recherche de collaborateur.trice.s
+## Toujours à la recherche de collaboratrices et de collaborateurs pour faire rouler la baraque et pas juste dans les cybermondes
 - Auteur.trice.s
 - Développeur.e.s Web
 - Délégué.e.s à la distribution
