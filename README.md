@@ -6,20 +6,31 @@
   
   
 ## Mission
-Encourager la relève artistique et littéraire sans aucune limite d'âge ou d'origine pourvu que les oeuvres soient résolument bouleversantes. Accueillir écrits et projets artistiques pour publication numérique ou sur papier. Les oeuvres numériques peuvent être de différentes natures: livres interactifs, oeuvres immersives voires installatives, art génératif, programmation créative par exemples.
+### 👁️‍🗨️ Encourager la relève artistique et littéraire sans aucune limite d'âge ou d'origine pourvu que les oeuvres soient résolument bouleversantes.
+
+### 👁️‍🗨️ Accueillir écrits et projets artistiques pour publication numérique ou sur papier. Les oeuvres numériques peuvent être de différentes natures: livres interactifs, oeuvres immersives voires installatives, art génératif, programmation créative par exemple.
+### 👁️‍🗨️ Combattre les biais cognitifs en proposant de nouveaux angles de vision, des points de vue originaux et non conformistes.
+### 👁️‍🗨️ Casser la baraque.
 
 ## Projets numériques
 - [Robots-roman 2021](https://evefevrier.github.io/robots-roman/)
 - [Robots-roman 2020](https://evefevrier.github.io/robots-roman/2020/)  
 
 ## Jeu "Mots de tête"
-### [Jouer à "Mots de tête"]()
-### [Consulter le code du jeu et/ou y collaborer]()
+- [Jouer à "Mots de tête"](https://evefevrier.github.io/wordle/)
+- [Consulter le code du jeu et/ou y collaborer](https://github.com/evefevrier/wordle)
 
 ## Projets de livres imprimés
-- Ces parts d'ombre, Richard Baillargeon (à paraître)
+- Ces parts d'ombre, Richard Baillargeon (à paraître) 
 
-## Toujours à la recherche de collaboratrices et de collaborateurs pour faire rouler la baraque et pas juste dans les cybermondes
+## Collectifs proches ❤️ ❤️‍🔥 💥
+- [Collectif La Fatigue](https://www.facebook.com/editionslafatigue)
+- [Collectif le Bestiaire](https://www.facebook.com/Collectif-Le-Bestiaire-110584058092835)
+
+## Collaborateurs
+[Le Pieu, atelier d'impression](https://www.facebook.com/atelierlepieu)
+
+## Toujours à la recherche de collaboratrices et de collaborateurs pour casser la baraque et pas juste dans les cybermondes
 - Auteur.trice.s
 - Développeur.e.s Web
 - Délégué.e.s à la distribution
