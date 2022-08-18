@@ -1,5 +1,7 @@
 # Premier *roadtrip* avec la petite  [ninja 🥷 650](https://www.kawasaki.ca/en-ca/motorcycle/ninja/sport/ninja-650/2021-ninja-650-abs)
 
+![Kawazaki ninja 650 2021 grise](./first-roadtrip/moto.jpeg)  
+
 Près de 700 kilomètres entre Québec, Saint-Antoine-de-Tilly, St-Pierre-les-Becquets, Trois-Rivières, Lachute, Val-David et retour en serpentins à travers les Laurentides jusqu'à St-Élie de Caxton, la 155 entre St-Boniface et Trois-Rivières et la 138 de Batiscan à Québec.
 
 ## À l'aller
@@ -10,7 +12,7 @@ Pour rassurer ma maman de 84 ans qui a une peur bleue des motos, je ne mentionne
 
 Départ de St-Antoine vers 10, arrivée à St-Pierre-les-becquets vers 11h.
 Première image prise à 11h16.  
- 
+
 ![Contribution alimentaire et domestique (adresse courriel sur le frigo)](./first-roadtrip/aux-becquets_caisse-commune.jpeg)
 
 Aux Becquets, c'est la gang qui a mis en place l'épicerie 13/2 dans Limoilou. Ils sont de cette jeunesse ardente et idéaliste qui s'invente un mode de vie anticapitaliste en s'appuyant sur la mise en commun plutôt que sur les illusoires satisfactions du consumérisme individualiste et la cellule familiale patriarcale. Enfin, c'est ma façon de voir leur fonctionnement. Tristan me fait visiter la ferme. Dindons et poules. Très grand potager. Cuisine extérieure de transformation. Grande serre pour certains légumes. Petite serre pour les semis. Dans la maison de Julien, Val, Pierre-Élie et Tau, il y a une récolte de fleurs d'ail qui attends d'être préparée pour la fermentation.
