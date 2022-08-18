@@ -9,7 +9,8 @@ Albert le magnifique chat tabby et blanc n'y est pas, il est déjà parti trotte
 Pour rassurer ma maman de 84 ans qui a une peur bleue des motos, je ne mentionne que ma prochaine destination: une visite à Tristan qui passe la semaine aux Becquets, avec la gang de la ferme. La veille, elle a tenté de me dissuader d'aller jusqu'à Val-David car elle trouvait ça trop loin... et moi de rétorquer qu'elle était paternaliste, que si j'étais un garçon elle réagirait autrement... mais ma rhétorique était à côté de la plaque. Bref, je ne voulais pas la narguer, ses inquiétudes m'avaient bien ébranlée un peu mais j'avais trop envie de cette aventure sur ma petite Ninja 650 de novice (je prévois passer l'examen sur route au début de l'automne).
 
 Départ de St-Antoine vers 10, arrivée à St-Pierre-les-becquets vers 11h.
-Première image prise à 11h16. 
+Première image prise à 11h16.  
+ 
 ![Contribution alimentaire et domestique (adresse courriel sur le frigo)](./first-roadtrip/aux-becquets_caisse-commune.jpeg)
 
 Aux Becquets, c'est la gang qui a mis en place l'épicerie 13/2 dans Limoilou. Ils sont de cette jeunesse ardente et idéaliste qui s'invente un mode de vie anticapitaliste en s'appuyant sur la mise en commun plutôt que sur les illusoires satisfactions du consumérisme individualiste et la cellule familiale patriarcale. Enfin, c'est ma façon de voir leur fonctionnement. Tristan me fait visiter la ferme. Dindons et poules. Très grand potager. Cuisine extérieure de transformation. Grande serre pour certains légumes. Petite serre pour les semis. Dans la maison de Julien, Val, Pierre-Élie et Tau, il y a une récolte de fleurs d'ail qui attends d'être préparée pour la fermentation.
@@ -35,12 +36,12 @@ On ne s'était pas vu depuis des siècles et on a bien rigolé.
 
 À Val-David, je recommande la visite de deux jardins très spéciaux...
 ### Le jardin de silice
-Installation permanente intégrée à l'espace dédié à l'exposition Mille et un pots.
+Installation permanente intégrée à l'espace dédié à l'exposition [Mille et un pots](https://www.1001pots.com/).
 
 ![Un point de vue, dans le jardin de silice](./first-roadtrip/jardin-de-silice.jpg)  
 
 ### Le jardin de sorcières
-À la Clef des Champs, un jardin à la mémoire de ces femmes et de ces hommes qui ont utilisés les plantes pour s'alimenter, se soigner et guérir les êtres aimés ou, en contraste, empoisonner ou droguer.
+À la [Clef des Champs](https://clefdeschamps.net/fr/), un jardin à la mémoire de ces femmes et de ces hommes qui ont utilisés les plantes pour s'alimenter, se soigner et guérir les êtres aimés ou, en contraste, empoisonner ou droguer.
 
 ![Tabac sacré et mon ombre](./first-roadtrip/tabac-sacre.jpeg)  
 ## Au retour
