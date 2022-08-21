@@ -36,7 +36,8 @@ On ne s'était pas vu depuis des siècles et on a bien rigolé.
 
 [![Trajet entre Lachute et Val-David](./first-roadtrip/trajet_lachute_val-david.png)](https://goo.gl/maps/FWPT83S3NuC9amEM8)
 
-À Val-David, je recommande la visite de deux jardins très spéciaux...
+À Val-David, je recommande la visite de deux jardins très spéciaux...  
+  
 ### Le jardin de silice
 Installation permanente intégrée à l'espace dédié à l'exposition [Mille et un pots](https://www.1001pots.com/).
 
@@ -46,13 +47,17 @@ Installation permanente intégrée à l'espace dédié à l'exposition [Mille et
 À la [Clef des Champs](https://clefdeschamps.net/fr/), un jardin à la mémoire de ces femmes et de ces hommes qui ont utilisés les plantes pour s'alimenter, se soigner et guérir les êtres aimés ou, en contraste, empoisonner ou droguer.
 
 ![Tabac sacré et mon ombre](./first-roadtrip/tabac-sacre.jpeg)  
+
+Toujours à Val-David, pour un arrêt dodo pas cher pas cher, le dortoir du [Baril roulant](https://www.barilroulant.com/) fait parfaitement l'affaire. Ce restaurant-auberge-brasserie est définitivement branché sur la valorisation des produits locaux, leurs valeurs et mission sont plus qu'honorables et sympathiques. Pour un lunch rapide, simple et d'un goût exquis, le [Général Café](https://legeneralcafe.com/) est un incontournable.
 ## Au retour
 
 [![Trajet entre Val-David et Québec](./first-roadtrip/trajet-retour_val-david_quebec.png)](https://goo.gl/maps/1eBh1e144kQNXvff7)
 
 Petit arrêt à Neuville pour croquer 2 jeunes pêcheurs sur le quai et une belle vipérine.  
 
-![Jeunes pêcheurs marchant sur le quai de Neuville](./first-roadtrip/ti-culs-a-la-peche.jpg)  
-![Vipérine commune](./first-roadtrip/viperine.JPG)  
+![Jeunes pêcheurs marchant sur le quai de Neuville](./first-roadtrip/ti-culs-a-la-peche.jpg)![Vipérine commune](./first-roadtrip/viperine.JPG)  
 
 p.s.: C'est seulement après ce premier *roadtrip* que j'ai appris comment vérifier le niveau d'huile. Fallait être 2 pour que pendant que l'un est sur la moto l'autre peut évaluer correctement le niveau qui doit être entre les 2 lignes mais plus proche de la ligne supérieure.
+
+Ève Février  
+16 au 18 juillet 2022
