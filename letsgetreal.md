@@ -3,25 +3,27 @@
 *vendredi 23 septembre 2022*  
 
 # UMi
-sera mon prochain prénom.  
+sera son prochain prénom.  
   
-Mon baptême sera celui de la <strong style="color:orange">Guilde de la potière jalouse</strong>.  
-Changement de vie.   
+La cérémonie de ce changement sera liée à l'émergence de la <strong style="color:orange">Guilde de la potière jalouse</strong>.  
+
+_Welcome home_, à l'Auberge de la Petite Ourse, tous les pouceux et pouceuses de crayon polaire seront accueilli(e)s.  
+
+Place aux changements de vie.     
   
-Comme Norval devenu le _Copper Thunderbird_.  
+Comme [Norval](https://www.invaluable.com/artist/morisseau-norval-d313z56a5l/sold-at-auction-prices/) devenu le _Copper Thunderbird_. (*)     
 Un nom puissant donne du pouvoir.  
+
 et une grande vulnérabilité  
-le passé est demain  
-demain c'est le passé  
-  
-elle pèse 112 livres  
-j'aimerais qu'elle ressemble à la fille aux cheveux bleus de Bilal  
-mais en plusse badass comme Lisbeth Salander  
+le passé est demain, demain c'est le passé
   
 parler de soi à la 3e personne  
 quand le corps n'est plus qu'un véhicule de communication  
+elle pèse 112 livres  
+j'aimerais qu'elle ressemble à la fille aux cheveux bleus de Bilal  
+mais en plusse badass comme Lisbeth Salander
 
-
+_(*) Selon la tradition anishinaabe, donner un nom puissant à une personne mourante peut lui apporter une nouvelle énergie et sauver sa vie._
 
 ## Ma rencontre avec Stanley <3 <3 <3 
   
