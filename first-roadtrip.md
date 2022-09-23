@@ -48,7 +48,7 @@ Installation permanente intégrée à l'espace dédié à l'exposition [Mille et
 
 ![Tabac sacré et mon ombre](./first-roadtrip/tabac-sacre.jpeg)  
 
-Toujours à Val-David, pour un arrêt dodo pas cher pas cher, le dortoir du [Baril roulant](https://www.barilroulant.com/) fait parfaitement l'affaire. Ce restaurant-auberge-brasserie est définitivement branché sur la valorisation des produits locaux, leurs valeurs et mission sont plus qu'honorables et sympathiques. Pour un lunch rapide, simple et d'un goût exquis, le [Général Café](https://legeneralcafe.com/) est un incontournable.
+Toujours à Val-David, pour un arrêt dodo pas cher pas cher, le dortoir du [Baril roulant](https://www.barilroulant.com/) fait parfaitement l'affaire. Ce restaurant-auberge-brasserie est définitivement branché sur la valorisation des produits locaux, leurs valeurs et mission sont plus qu'honorables et sympathiques. Pour un lunch rapide, simple et d'un goût exquis, le [Général Café](https://legeneralcafe.com/) est un incontournable. Le menu a de quoi satisfaire autant les carnivores que les végétaliens et autres épicuriens.  
 ## Au retour
 
 [![Trajet entre Val-David et Québec](./first-roadtrip/trajet-retour_val-david_quebec.png)](https://goo.gl/maps/1eBh1e144kQNXvff7)

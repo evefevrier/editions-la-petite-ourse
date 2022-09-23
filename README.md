@@ -20,10 +20,14 @@
 - [Jouer à "Mots de tête"](https://evefevrier.github.io/wordle/)
 - [Consulter le code du jeu et/ou y collaborer](https://github.com/evefevrier/wordle)
 
-## Articles
+## Articles du plus récent au plus ancien
+🥷 [Lets get respect for all](letsgetreal.md)
+🥷 [Virée Shivaïque](short-expedition-01.md)
 🥷 [première vrai *ride*](first-roadtrip.md)
+
+
 ## Projets de livres imprimés
-- Ces parts d'ombre, Richard Baillargeon (à paraître) 
+- Ces parts d'ombre, Richard Baillargeon (à paraître en 2023) 
 
 ## Collectifs proches ❤️ ❤️‍🔥 💥
 - [Collectif La Fatigue](https://www.facebook.com/editionslafatigue)
