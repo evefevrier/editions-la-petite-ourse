@@ -25,7 +25,7 @@ mais en plusse badass comme Lisbeth Salander
 
 _(*) Selon la tradition anishinaabe, donner un nom puissant à une personne mourante peut lui apporter une nouvelle énergie et sauver sa vie._
 
-## Ma rencontre avec Stanley <3 <3 <3 
+## Ma rencontre avec Stanley 
   
 > [Activer la pensée critique    
 S’attaquer aux causes profondes de l’exclusion systémique   
@@ -33,7 +33,7 @@ et au déséquilibre des pouvoirs dans les arts.](https://www.fevrierstanley.com
 
 ![stan1](media/meeting-stanley.png) ![stan2](media/chatting-with-stanley.png) ![stan3](media/confidences.png)
 
-Dans la vingtaine, mon amie Barbara Michaud m'a fait connaître Luce Irigaray.  
+Dans la vingtaine, mon amie Barbara Michaud m'a fait connaître [Luce Irigaray](https://fr.wikipedia.org/wiki/Luce_Irigaray).  
 J'ai flashé sur son essai *«Le mystère oublié des généalogies féminines»*. 
   
 ![Le temps de la différence](media/le-temps-de-la-difference.jpeg)  
