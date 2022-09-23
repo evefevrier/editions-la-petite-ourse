@@ -8,7 +8,7 @@ _Welcome home_, à l'Auberge de la Petite Ourse, tous les pouceux et pouceuses d
 UMi sera son prochain prénom.  
 Un nom puissant donne du pouvoir.
 
-Changer de nom, comme [Norval](https://www.invaluable.com/artist/morisseau-norval-d313z56a5l/sold-at-auction-prices/) devenu le _Copper Thunderbird_. <a href="noteWikipedia">(*)</a>    
+Changer de nom, comme [Norval](https://www.invaluable.com/artist/morisseau-norval-d313z56a5l/sold-at-auction-prices/) devenu le _Copper Thunderbird_. <a href="#noteWikipedia">(*)</a>    
 Changement de vie et réincarnation.  
 La cérémonie de ce changement sera liée à l'émergence de la <strong style="color:orange">Guilde de la potière jalouse</strong>.
 
