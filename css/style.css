@@ -17,3 +17,7 @@ img[alt="Le temps de la différence"]{
 a:link, a:visited{
     text-decoration: none;
 }
+
+q:before, q:after{
+    content:"";
+}
