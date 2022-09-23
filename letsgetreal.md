@@ -5,9 +5,8 @@
 # UMi
 sera mon prochain prénom.  
   
-Mon baptême sera celui de la <strong style="color:darkred">Guilde de la potière jalouse</strong>.  
-Changement de vie.  
-Réincarnation.  
+Mon baptême sera celui de la <strong style="color:orange">Guilde de la potière jalouse</strong>.  
+Changement de vie.   
   
 Comme Norval devenu le _Copper Thunderbird_.  
 Un nom puissant donne du pouvoir.  
@@ -24,7 +23,7 @@ quand le corps n'est plus qu'un véhicule de communication
 
 
 
-## Ma rencontre avec Stanley
+## Ma rencontre avec [Stanley](https://www.fevrierstanley.com/)
   
 > [Activer la pensée critique](https://www.fevrierstanley.com/)     
 S’attaquer aux causes profondes de l’exclusion systémique   
@@ -32,18 +31,18 @@ et au déséquilibre des pouvoirs dans les arts.
 
 ![stan1](media/meeting-stanley.png) ![stan2](media/chatting-with-stanley.png) ![stan3](media/confidences.png)
 
-Dans la vingtaine, mon amie Barbara Michaud m'a fait connaître Luce Irigaray..  
+Dans la vingtaine, mon amie Barbara Michaud m'a fait connaître Luce Irigaray.  
 J'ai flashé sur son essai *«Le mystère oublié des généalogies féminines»*. 
   
 ![Le temps de la différence](media/le-temps-de-la-difference.jpeg)  
   
 C'est cette lecture qui m'a amené à décider de remplacer mon patronyme par un matronyme.  
-Mais où aller chercher son matronyme ? Il faut remonter aux origines, à l'autre en soi, la mémoire cellulaire ou le cerveau reptilien, je ne sais pas.    
+Mais où aller chercher son matronyme ? Il faut remonter aux origines, à l'autre en soi, à la mémoire cellulaire ou au cerveau reptilien, je ne sais pas.    
   
 __Février, c'est le mois de ma naissance.__    
   
 > demain, je termine au cégep vers 18h  
-j'arriverai donc vers la fin de la séance de signature  
+j'arriverai donc vers la fin de la séance de signatures  
   
   
 ![stan4](media/planning-real-meeting.png)
