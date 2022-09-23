@@ -1,29 +1,5 @@
 <link rel="stylesheet" href="css/style.css">
 
-*vendredi 23 septembre 2022*  
-
-# UMi
-_Welcome home_, à l'Auberge de la Petite Ourse, tous les pouceux et pouceuses de crayon polaire seront accueilli(e)s. 
-
-UMi sera son prochain prénom.  
-Un nom puissant donne du pouvoir.
-
-Changer de nom, comme [Norval](https://www.invaluable.com/artist/morisseau-norval-d313z56a5l/sold-at-auction-prices/) devenu le _Copper Thunderbird_. <a href="#noteWikipedia">(*)</a>    
-Changement de vie et réincarnation.  
-La cérémonie de ce changement sera liée à l'émergence de la <strong style="color:orange">Guilde de la potière jalouse</strong>.
-
-~~Un nom puissant donne du pouvoir et une grande vulnérabilité.    
-Demain, c'est le passé et le passé est demain.~~   
-  
-Parler de soi à la 3e personne.    
-Quand le corps n'est plus qu'un véhicule de communication.      
-> elle pèse 112 livres,   
-j'aimerais qu'elle ressemble à la fille aux cheveux bleus de Bilal      
-mais en plusse badass comme Lisbeth Salander     
-
-
-(*) <q id="noteWikipedia"><small data-source="Wikipedia">Selon la tradition anishinaabe, donner un nom puissant à une personne mourante peut lui apporter une nouvelle énergie et sauver sa vie.</small></q>
-
 ## Ma rencontre avec Stanley 
   
 > [Activer la pensée critique    
@@ -47,3 +23,26 @@ j'arriverai donc vers la fin de la séance de signatures
   
   
 ![stan4](media/planning-real-meeting.png)
+  
+  
+  
+*vendredi 23 septembre 2022*
+# UMi
+UMi sera son prochain prénom.  
+Un nom puissant donne du pouvoir.
+
+Changer de nom, comme [Norval](https://www.invaluable.com/artist/morisseau-norval-d313z56a5l/sold-at-auction-prices/) devenu le _Copper Thunderbird_. <a href="#noteWikipedia">(*)</a>    
+Changement de vie et réincarnation.  
+La cérémonie de ce changement sera liée à l'émergence de la <strong style="color:orange">Guilde de la potière jalouse</strong>.
+
+~~Un nom puissant donne du pouvoir et une grande vulnérabilité.    
+Demain, c'est le passé et le passé est demain.~~
+
+Parler de soi à la 3e personne.    
+Quand le corps n'est plus qu'un véhicule de communication.
+> elle pèse 112 livres,   
+j'aimerais qu'elle ressemble à la fille aux cheveux bleus de Bilal      
+mais en plusse badass comme Lisbeth Salander
+
+
+(*) <q id="noteWikipedia"><small data-source="Wikipedia">Selon la tradition anishinaabe, donner un nom puissant à une personne mourante peut lui apporter une nouvelle énergie et sauver sa vie.</small></q>

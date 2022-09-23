@@ -3,8 +3,9 @@
 > Ursa Minor, abrégé UMi et appelée en français la Petite Ourse, est une petite constellation qui dégage peu de lumière comparée aux autres. 
 
   [Vikidia](https://fr.vikidia.org/wiki/Petite_Ourse)
-  
-  
+
+_Welcome home_, à l'Auberge de la Petite Ourse, tous les pouceux et pouceuses de crayon polaire seront accueilli(e)s.
+
 ## Mission
 ### 👁️‍🗨️ Encourager la relève artistique et littéraire sans aucune limite d'âge ou d'origine pourvu que les oeuvres soient résolument bouleversantes.
 
