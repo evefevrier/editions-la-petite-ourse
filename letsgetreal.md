@@ -25,9 +25,12 @@ j'arriverai donc vers la fin de la séance de signatures
 ![stan4](media/planning-real-meeting.png)
   
   
-  
-*vendredi 23 septembre 2022*
+
+<hr>  
+
 # UMi
+*vendredi 23 septembre 2022*
+
 UMi sera son prochain prénom.  
 Un nom puissant donne du pouvoir.
 
