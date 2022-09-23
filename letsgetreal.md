@@ -23,11 +23,11 @@ quand le corps n'est plus qu'un véhicule de communication
 
 
 
-## Ma rencontre avec [Stanley](https://www.fevrierstanley.com/)
+## Ma rencontre avec Stanley <3 <3 <3 
   
-> [Activer la pensée critique](https://www.fevrierstanley.com/)     
+> [Activer la pensée critique    
 S’attaquer aux causes profondes de l’exclusion systémique   
-et au déséquilibre des pouvoirs dans les arts.  
+et au déséquilibre des pouvoirs dans les arts.](https://www.fevrierstanley.com/)
 
 ![stan1](media/meeting-stanley.png) ![stan2](media/chatting-with-stanley.png) ![stan3](media/confidences.png)
 
