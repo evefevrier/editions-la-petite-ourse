@@ -3,25 +3,22 @@
 *vendredi 23 septembre 2022*  
 
 # UMi
-sera son prochain prénom.  
-  
-La cérémonie de ce changement sera liée à l'émergence de la <strong style="color:orange">Guilde de la potière jalouse</strong>.  
+_Welcome home_, à l'Auberge de la Petite Ourse, tous les pouceux et pouceuses de crayon polaire seront accueilli(e)s. 
 
-_Welcome home_, à l'Auberge de la Petite Ourse, tous les pouceux et pouceuses de crayon polaire seront accueilli(e)s.  
+UMi sera son prochain prénom.  
+Un nom puissant donne du pouvoir.
 
-Place aux changements de vie.     
-  
-Comme [Norval](https://www.invaluable.com/artist/morisseau-norval-d313z56a5l/sold-at-auction-prices/) devenu le _Copper Thunderbird_. (*)     
-Un nom puissant donne du pouvoir.  
+Changer de nom, comme [Norval](https://www.invaluable.com/artist/morisseau-norval-d313z56a5l/sold-at-auction-prices/) devenu le _Copper Thunderbird_. (*)  
+Changement de vie et réincarnation.  
+La cérémonie de ce changement sera liée à l'émergence de la <strong style="color:orange">Guilde de la potière jalouse</strong>.
 
-et une grande vulnérabilité  
-le passé est demain, demain c'est le passé
+~~Un nom puissant donne du pouvoir et une grande vulnérabilité.    
+Demain, c'est le passé et le passé est demain.~~   
   
 parler de soi à la 3e personne  
-quand le corps n'est plus qu'un véhicule de communication  
-elle pèse 112 livres  
-j'aimerais qu'elle ressemble à la fille aux cheveux bleus de Bilal  
-mais en plusse badass comme Lisbeth Salander
+quand le corps n'est plus qu'un véhicule de communication    
+> elle pèse 112 livres, j'aimerais qu'elle ressemble à la fille aux cheveux bleus de Bilal  
+mais en plusse badass comme Lisbeth Salander 
 
 _(*) Selon la tradition anishinaabe, donner un nom puissant à une personne mourante peut lui apporter une nouvelle énergie et sauver sa vie._
 
