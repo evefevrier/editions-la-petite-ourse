@@ -44,7 +44,6 @@ __Février, c'est le mois de ma naissance.__
   
 > demain, je termine au cégep vers 18h  
 j'arriverai donc vers la fin de la séance de signature  
-et si je ne fais pas d'accident de moto (énervée comme une puce?)  
-J'achèterai un catalogue pour pouvoir te demander une dédicace!  
-
+  
+  
 ![stan4](media/planning-real-meeting.png)
