@@ -1,6 +1,8 @@
 # Le culte des ancêtres
 __Une courte expédition shivaïque__
 
+![](media/sur-la-tombe-d-emery.jpeg)
+
 Fumer un joint dans le cimetière de Sainte-Justine.
 Admirer le vieux pin qui fournit un bel ombrage.
 Ramasser une de ses cocottes.
