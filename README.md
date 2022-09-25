@@ -15,11 +15,10 @@ _Welcome home_, à l'Auberge de la Petite Ourse, tous les pouceux et pouceuses d
 
 ## Projets numériques
 
-## Carnets 
-### UMi
-- 🥷 [Lets get respect for all](letsgetreal.md)
-- 🥷 [Virée Shivaïque](short-expedition-01.md)
-- 🥷 [première vrai *ride*](first-roadtrip.md)
+## Le carnet d'UMi 🥷
+- [*Lets get respect for all*](letsgetreal.md)
+- [Virée Shivaïque](short-expedition-01.md)
+- [Première vrai *ride*](first-roadtrip.md)
 
 ### Robots-roman 
 avec les étudiant(e)s de première année de [TIM](timcsf.ca)
