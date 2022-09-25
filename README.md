@@ -7,25 +7,28 @@
 _Welcome home_, à l'Auberge de la Petite Ourse, tous les pouceux et pouceuses de crayon polaire seront accueilli(e)s.
 
 ## Mission
-### 👁️‍🗨️ Encourager la relève artistique et littéraire sans aucune limite d'âge ou d'origine pourvu que les oeuvres soient résolument bouleversantes.
+### 👁️ Encourager la relève artistique et littéraire sans aucune limite d'âge ou d'origine pourvu que les oeuvres soient résolument bouleversantes.
 
-### 👁️‍🗨️ Accueillir écrits et projets artistiques pour publication numérique ou sur papier. Les oeuvres numériques peuvent être de différentes natures: livres interactifs, oeuvres immersives voires installatives, art génératif, programmation créative par exemple.
-### 👁️‍🗨️ Combattre les biais cognitifs en proposant de nouveaux angles de vision, des points de vue originaux et non conformistes.
-### 👁️‍🗨️ Casser la baraque.
+### 👁️‍ Accueillir écrits et projets artistiques pour publication numérique ou sur papier. Les oeuvres numériques peuvent être de différentes natures: livres interactifs, oeuvres immersives voires installatives, art génératif, programmation créative par exemple.
+### 👁️‍ Combattre les biais cognitifs en proposant de nouveaux angles de vision, des points de vue originaux et non conformistes.
+### 👁️‍ Casser la baraque.
 
 ## Projets numériques
+
+## Carnets 
+### UMi
+- 🥷 [Lets get respect for all](letsgetreal.md)
+- 🥷 [Virée Shivaïque](short-expedition-01.md)
+- 🥷 [première vrai *ride*](first-roadtrip.md)
+
+### Robots-roman 
+avec les étudiant(e)s de première année de [TIM](timcsf.ca)
 - [Robots-roman 2021](https://evefevrier.github.io/robots-roman/)
 - [Robots-roman 2020](https://evefevrier.github.io/robots-roman/2020/)  
 
-## Jeu "Mots de tête"
+### Jeu "Mots de tête"
 - [Jouer à "Mots de tête"](https://evefevrier.github.io/wordle/)
 - [Consulter le code du jeu et/ou y collaborer](https://github.com/evefevrier/wordle)
-
-## Articles du plus récent au plus ancien
-🥷 [Lets get respect for all](letsgetreal.md)
-🥷 [Virée Shivaïque](short-expedition-01.md)
-🥷 [première vrai *ride*](first-roadtrip.md)
-
 
 ## Projets de livres imprimés
 - Ces parts d'ombre, Richard Baillargeon (à paraître en 2023) 
