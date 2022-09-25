@@ -30,7 +30,8 @@ Peu ou pas de libre arbitre et de pouvoir sur ta vie.
 Elle est née en 1906 et décédée en 1961.
 > L'Alberta, qui est devenu officiellement une province en 1905, doit son nom au Marquis de Lorne, gouverneur général du Canada entre 1878 et 1883. En effet, celui-ci a proposé le nom d'Alberta en l'honneur de sa femme, la princesse Louise Caroline Alberta, qui était la fille de la reine Victoria (Source: Wikipedia)
   
+<hr>
   
-<span color="orange">`<Léger sarcasme>`</span>
-_Maintenant je comprends qu'Albert peut devenir Alberta et Alberta, **Libarté**_
-<span color="orange">`</Léger sarcasme>`</span>
+<span color="orange">`<Léger sarcasme>`   
+_Maintenant je comprends qu'Albert peut devenir Alberta et Alberta, **Libarté**_  
+`</Léger sarcasme>`</span>  
