@@ -20,7 +20,7 @@ _Welcome home_, à l'Auberge de la Petite Ourse, tous les pouceux et pouceuses d
 - [Première vrai *ride*](first-roadtrip.md)
 
 ### Robots-romans 
-avec les étudiant(e)s de première année de [TIM](timcsf.ca)
+avec les étudiant(e)s de première année de [TIM](https://timcsf.ca/)
 - [Robots-roman 2021](https://evefevrier.github.io/robots-roman/)
 - [Robots-roman 2020](https://evefevrier.github.io/robots-roman/2020/)  
 
