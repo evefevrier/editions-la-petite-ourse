@@ -14,8 +14,7 @@ _Welcome home_, à l'Auberge de la Petite Ourse, tous les pouceux et pouceuses d
 ### 👁️‍ Casser la baraque.
 
 ## Projets numériques
-
-## Le carnet d'UMi 🥷
+### Le carnet d'UMi 🥷
 - [*Lets get respect for all*](letsgetreal.md)
 - [Virée Shivaïque](short-expedition-01.md)
 - [Première vrai *ride*](first-roadtrip.md)
@@ -39,12 +38,7 @@ avec les étudiant(e)s de première année de [TIM](timcsf.ca)
 ## Collaborateurs
 [Le Pieu, atelier d'impression](https://www.facebook.com/atelierlepieu)
 
-## Toujours à la recherche de collaboratrices et de collaborateurs pour casser la baraque et pas juste dans les cybermondes
-- Auteur.trice.s
-- Développeur.e.s Web
-- Délégué.e.s à la distribution
-- Ingénieux.se.s du socio-financement  
-
+## Intéressé(e) à publier à la Petite Ourse ?
 Écrire à __editionsLaPetiteOurse__ à __gmail dot com__    
   
   
