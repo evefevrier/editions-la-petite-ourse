@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="css/style.css">
 
 # Le culte des ancêtres
-__Une courte expédition shivaïque__
+__Une courte expédition shivaïque, 10 septembre 2022__
 
 ![Sur la tombe](media/sur-la-tombe-d-emery.jpeg)
 

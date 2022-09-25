@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="css/style.css">
 
-## Ma rencontre avec Stanley 
-  
+# Ma rencontre avec Stanley 
+
 > [Activer la pensée critique    
 S’attaquer aux causes profondes de l’exclusion systémique   
 et au déséquilibre des pouvoirs dans les arts.](https://www.fevrierstanley.com/)
