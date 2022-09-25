@@ -3,7 +3,7 @@
 # Le culte des ancêtres
 __Une courte expédition shivaïque__
 
-![](media/sur-la-tombe-d-emery.jpeg)
+![Sur la tombe](media/sur-la-tombe-d-emery.jpeg)
 
 Fumer un joint dans le cimetière de Sainte-Justine.
 Admirer le vieux pin qui fournit un bel ombrage.
@@ -15,9 +15,8 @@ Prendre conscience qu'Émery est le seul de la quinzaine d'enfants qu'a eu Berth
 Je n'ai pas connu ma grand-mère car elle est morte avant ma naissance, 3 mois avant d'atteindre 55 ans, d'un cancer. Sur la seule photo que je possède d'elle, c'est une jolie brunette à la mine enjouée, encore adolescente, parmi une très nombreuse fratrie. 
   
 ![Bertha et son père](media/bertha-et-son-pere.jpeg)  
-_extraite de la photo de famille complète, 1919 ou 1920 approximativement.  
-Maudit que le monde était pauvre dans ce temps là.  
-Souper avec des patates pis du beurre c'était ben correct._  
+_Segment de photo de famille, 1919 ou 1920 approximativement._  
+<small> <i>Maudit que le monde était pauvre dans ce temps là. Souper avec des patates pis du beurre c'était juste bon.</i> <small>
 
 ## Alberta
 
