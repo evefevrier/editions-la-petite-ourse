@@ -18,7 +18,7 @@ Je n'ai pas connu ma grand-mère car elle est morte avant ma naissance, 3 mois a
 _Segment de photo de famille, 1919 ou 1920 approximativement._  
 <small> <i>Maudit que le monde était pauvre dans ce temps là. Souper avec des patates pis du beurre c'était juste bon.</i> <small>
 
-## Alberta
+## Bertha Lachance
 
 ### Quinze grossesse en 19 ans...  
 Sans compter les possibles fausses-couches.  
@@ -32,6 +32,6 @@ Elle est née en 1906 et décédée en 1961.
   
 <hr>
   
-<span color="orange">`<Léger sarcasme>`   
+<del><span color="orange">`<Léger sarcasme>`   
 _Maintenant je comprends qu'Albert peut devenir Alberta et Alberta, **Libarté**_  
-`</Léger sarcasme>`</span>  
+`</Léger sarcasme>`</span></del>  
