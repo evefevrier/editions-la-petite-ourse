@@ -5,7 +5,9 @@ __Une courte expédition shivaïque, 10 septembre 2022__
 
 ![Sur la tombe](media/sur-la-tombe-d-emery.jpeg)
 
-Fumer un joint dans le cimetière de Sainte-Justine.
+[//]: # (Fumer un joint dans le cimetière de Sainte-Justine.)
+Cimetière de Sainte-Justine.
+Pierre tombale de mon père Émery et de ses parents Louis-Philippe et Bertha.
 Admirer le vieux pin qui fournit un bel ombrage.
 Ramasser une de ses cocottes.
 Capter ma réflexion sur la pierre tombale.
