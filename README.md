@@ -15,6 +15,7 @@ _Welcome home_, à l'Auberge de la Petite Ourse, tous les pouceux et pouceuses d
 
 ## Projets numériques
 ### Le carnet d'UMi 🥷
+- [Webster](webster.md)
 - [*Lets get respect for all*](letsgetreal.md)
 - [Virée Shivaïque](short-expedition-01.md)
 - [Première vrai *ride*](first-roadtrip.md)
