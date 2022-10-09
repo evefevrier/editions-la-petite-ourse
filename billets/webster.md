@@ -12,4 +12,7 @@ En plus, le sandwich végétarien gratuit... miam! miam!
 Tout le contenu de cette visite guidée d'épigraphes et de lieux historiques se trouve dans l'exposition [Fugitifs](https://msj.world/fugitifs/card/XZWRV9UDc).
 
 Bravo Webster! pour cette recherche finement présentée.  
-Je connais mieux maintenant cette réalité historique pratiquement passé sous silence par nos premiers historiens incluant F.-X. Garneau. Je souhaite qu'une ou un autre prenne la relève pour retracer et raconter les histoires des 2/3 des esclaves qui étaient autochtones plutôt que noirs.
+Merci entre autres de m'avoir fait connaître [Rosa Parks](https://fr.wikipedia.org/wiki/Rosa_Parks) entre autres.  
+À travers mille et une anecdotes de personnes ayant vécu ici, tu nous as fait découvrir un pan d'histoire passé pratiquement sous silence par nos premiers historiens. Un pan de cette histoire  de Pouvoir sur autrui. Esclavage, servitude, sévices, la fuite comme principal mais non le seul acte de résistance. Exécutions. Dénis.  
+  
+Et il reste à retracer et raconter les histoires des esclaves autochtones. Ils représentent les 2/3 des esclaves recensés ici, les noirs occupant l'autre tiers. 
