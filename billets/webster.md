@@ -1,9 +1,9 @@
-<link rel="stylesheet" href="css/style.css">
+<link rel="stylesheet" href="../css/style.css">
 
 # Marche dans le Vieux-Québec avec Webster
 __Sortie, l'histoire de noirs à Québec, avec Webster, samedi 1er octobre 2022__
 
-![Événement FaceBook Sortie, l'histoire de noirs à Québec, avec Webster](media/webster.png)
+![Événement FaceBook Sortie, l'histoire de noirs à Québec, avec Webster](../media/webster.png)
 
 Très très cool de faire cette marche de 2 heures un beau samedi matin d'automne, bien frais avec [Webster qui nous rap un petit bout d'histoire](https://www.youtube.com/watch?v=OdL14IfV3U0). 
 

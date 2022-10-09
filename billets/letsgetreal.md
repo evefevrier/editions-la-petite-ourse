@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="css/style.css">
+<link rel="stylesheet" href="../css/style.css">
 
 # Ma rencontre avec Stanley 
 
@@ -6,12 +6,12 @@
 S’attaquer aux causes profondes de l’exclusion systémique   
 et au déséquilibre des pouvoirs dans les arts.](https://www.fevrierstanley.com/)
 
-![stan1](media/meeting-stanley.png) ![stan2](media/chatting-with-stanley.png) ![stan3](media/confidences.png)
+![stan1](../media/meeting-stanley.png) ![stan2](../media/chatting-with-stanley.png) ![stan3](../media/confidences.png)
 
 Dans la vingtaine, mon amie Barbara Michaud m'a fait connaître [Luce Irigaray](https://fr.wikipedia.org/wiki/Luce_Irigaray).  
 J'ai flashé sur son essai *«Le mystère oublié des généalogies féminines»*. 
   
-![Le temps de la différence](media/le-temps-de-la-difference.jpeg)  
+![Le temps de la différence](../media/le-temps-de-la-difference.jpeg)  
   
 C'est cette lecture qui m'a amené à décider de remplacer mon patronyme par un matronyme.  
 Mais où aller chercher son matronyme ? Il faut remonter aux origines, à l'autre en soi, à la mémoire cellulaire ou au cerveau reptilien, je ne sais pas.    
@@ -22,7 +22,7 @@ __Février, c'est le mois de ma naissance.__
 j'arriverai donc vers la fin de la séance de signatures  
   
   
-![stan4](media/planning-real-meeting.png)
+![stan4](../media/planning-real-meeting.png)
   
   
 

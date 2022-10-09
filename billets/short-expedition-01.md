@@ -1,9 +1,9 @@
-<link rel="stylesheet" href="css/style.css">
+<link rel="stylesheet" href="../css/style.css">
 
 # Le culte des ancêtres
 __Une courte expédition shivaïque, 10 septembre 2022__
 
-![Sur la tombe](media/sur-la-tombe-d-emery.jpeg)
+![Sur la tombe](../media/sur-la-tombe-d-emery.jpeg)
 
 [//]: # (Fumer un joint dans le cimetière de Sainte-Justine.)
 Cimetière de Sainte-Justine.
@@ -16,7 +16,7 @@ Prendre conscience qu'Émery est le seul de la quinzaine d'enfants qu'a eu Berth
 
 Je n'ai pas connu ma grand-mère car elle est morte avant ma naissance, 3 mois avant d'atteindre 55 ans, d'un cancer. Sur la seule photo que je possède d'elle, c'est une jolie brunette à la mine enjouée, encore adolescente, parmi une très nombreuse fratrie. 
   
-![Bertha et son père](media/bertha-et-son-pere.jpeg)  
+![Bertha et son père](../media/bertha-et-son-pere.jpeg)  
 _Segment de photo de famille, 1919 ou 1920 approximativement._  
 <small> <i>Maudit que le monde était pauvre dans ce temps là. Souper avec des patates pis du beurre c'était juste bon.</i> <small>
 

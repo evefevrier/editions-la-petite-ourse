@@ -4,21 +4,21 @@
 
   [Vikidia](https://fr.vikidia.org/wiki/Petite_Ourse)
 
-_Welcome home_, à l'Auberge de la Petite Ourse, tous les pouceux et pouceuses de crayon polaire seront accueilli(e)s.
-
+_Welcome home_, à l'Auberge de la Petite Ourse.  
+Un hâvre pour les petits poucets rêveurs et les pouceuses de la liberté de pensée.
+  
 ## Mission
-### 👁️ Encourager la relève artistique et littéraire sans aucune limite d'âge ou d'origine pourvu que les oeuvres soient résolument bouleversantes.
-
-### 👁️‍ Accueillir écrits et projets artistiques pour publication numérique ou sur papier. Les oeuvres numériques peuvent être de différentes natures: livres interactifs, oeuvres immersives voires installatives, art génératif, programmation créative par exemple.
-### 👁️‍ Combattre les biais cognitifs en proposant de nouveaux angles de vision, des points de vue originaux et non conformistes.
-### 👁️‍ Casser la baraque.
+### 👁️ Encourager la relève artistique et littéraire.
+### 👁️‍ Accueillir écrits et projets artistiques pour publication numérique ou sur papier. 
+### 👁️‍ Combattre les biais cognitifs en proposant de nouveaux angles de vision, des points de vue originaux et non conformistes. 
 
 ## Projets numériques
 ### Le carnet d'UMi 🥷
-- [Webster](webster.md)
-- [*Lets get respect for all*](letsgetreal.md)
-- [Virée Shivaïque](short-expedition-01.md)
-- [Première vrai *ride*](first-roadtrip.md)
+- [The Broker / Le courtier](billets/trapped.md)
+- [L'histoire des noirs avec Webster](billets/webster.md)
+- [*Lets get respect for all*](billets/letsgetreal.md)
+- [Le cimetière de Ste-Justine](billets/short-expedition-01.md)
+- [Les jardins de Val-David](billets/first-roadtrip.md)
 
 ### Robots-romans 
 avec les étudiant(e)s de première année de [TIM](https://timcsf.ca/)
@@ -39,10 +39,7 @@ avec les étudiant(e)s de première année de [TIM](https://timcsf.ca/)
 ## Collaborateurs
 [Le Pieu, atelier d'impression](https://www.facebook.com/atelierlepieu)
 
-## Intéressé(e) à publier à la Petite Ourse ?
-Écrire à __editionsLaPetiteOurse__ à __gmail dot com__    
-  
-  
+## Contact et version Web du README
 [Ève Février](mailto:editionsLaPetiteOurse@gmail.com)  
 [Éditions la petite Ourse](https://evefevrier.github.io/editions-la-petite-ourse/)
  
