@@ -21,7 +21,7 @@ Depuis le début de cette session, la descente (plongeon?) est amorçée.
 Quand je me suis retrouvé en surtâche parce que le gars aux cheveux lissés par en arrière est en _burnout_ et qu'on a pas réussi à engager un autre prof.   
 Dès le début de cette session... ma belle chatte [Minouche, alias Kali Prakash la blanche](https://www.instagram.com/kali_la_blanche/) a disparue et je me dis que c'est ce que je devrais faire aussi. Mais pas avant d'avoir récupéré le nom de domaine de Richard.   
   
-Maudits tabarnaks de pirates. 
+Maudit tabarnak. 
   
 ![Erreur 404 sur richardbaillargeon.com](../media/404_richardbaillargeon.png)  
    
