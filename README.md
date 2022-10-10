@@ -14,7 +14,8 @@ Un hâvre pour les petits poucets rêveurs et les pouceuses de la liberté de pe
 
 ## Projets numériques
 ### Le carnet d'UMi 🥷
-- [The Broker / Le courtier](billets/trapped.md)
+- [The Broker / Le courtier](billets/trapped.md)  
+Le site Web de [Richard Baillargeon](autrices-et-auteurs/richardbaillargeon.md) sera rétabli le 12 octobre.
 - [L'histoire des noirs avec Webster](billets/webster.md)
 - [*Lets get respect for all*](billets/letsgetreal.md)
 - [Le cimetière de Ste-Justine](billets/short-expedition-01.md)
