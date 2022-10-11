@@ -37,17 +37,18 @@ Maudit tabarnak. </del>
 
 ## Processus expliqué
 Dans un premier échange de courriel, j'insiste pour qu'on m'explique le processus.
+Voici la réponse de Luis qui m'a attribué le courtier Joe.  
 > Hello,  
-Absolutely! We would like to help you acquire this domain name.  
-This domain is currently owned, and you purchased the Domain Broker Service for this domain name where we contact the owner on your behalf and negotiate with the owner and have them sell it to you then you can use the domain.  
-The way the process works is as follows: 
-> (1) We set a budget for how much you’re willing to spend on the domain. 
-> (2) We then engage with the owner and negotiate the best price for you within your budget.
-> (3) If we come to an agreement with the owner within your budget, we will expect payment + 20% broker service fee within 72 hours of both the buyer (you) and the owner agreeing. 
-> (4) Once the payment is made the domain will be transferred to your GoDaddy account.
-If we are unable to come to an agreement, you’re not obligated to pay anything.  
-This is a private service and can not give out information of buyer or seller.
-I will keep to try and contact the owner and update you as soon as I hear back.  
+Absolutely! We would like to help you acquire this domain name.    
+This domain is currently owned, and you purchased the Domain Broker Service for this domain name where we contact the owner on your behalf and negotiate with the owner and have them sell it to you then you can use the domain.    
+The way the process works is as follows:     
+> (1) We set a budget for how much you’re willing to spend on the domain.   
+> (2) We then engage with the owner and negotiate the best price for you within your budget.  
+> (3) If we come to an agreement with the owner within your budget, we will expect payment + 20% broker service fee within 72 hours of both the buyer (you) and the owner agreeing.   
+> (4) Once the payment is made the domain will be transferred to your GoDaddy account.  
+If we are unable to come to an agreement, you’re not obligated to pay anything.    
+This is a private service and can not give out information of buyer or seller.  
+I will keep to try and contact the owner and update you as soon as I hear back.    
 
 
    
