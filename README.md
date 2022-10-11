@@ -21,10 +21,11 @@ Le site Web de [Richard Baillargeon](http://richardbaillargeon.ca) est maintenan
 - [Le cimetière de Ste-Justine](billets/short-expedition-01.md)
 - [Les jardins de Val-David](billets/first-roadtrip.md)
 
-### Robots-romans 
+### Robots-romans
 avec les étudiant(e)s de première année de [TIM](https://timcsf.ca/)
-- [Robots-roman 2021](https://evefevrier.github.io/robots-roman/)
-- [Robots-roman 2020](https://evefevrier.github.io/robots-roman/2020/)  
+- [🤖🤖🤖 2022]()  // _not yet ready_
+- [🤖🤖 2021](https://evefevrier.github.io/robots-roman/)
+- [🤖 2020](https://evefevrier.github.io/robots-roman/2020/)  
 
 ### Jeu "Mots de tête"
 - [Jouer à "Mots de tête"](https://evefevrier.github.io/wordle/)
@@ -37,10 +38,10 @@ avec les étudiant(e)s de première année de [TIM](https://timcsf.ca/)
 - [Collectif La Fatigue](https://www.facebook.com/editionslafatigue)
 - [Collectif le Bestiaire](https://www.facebook.com/Collectif-Le-Bestiaire-110584058092835)
 
-## Collaborateurs
+## Partenaires
 [Le Pieu, atelier d'impression](https://www.facebook.com/atelierlepieu)
 
-## Contact et version Web du README
+## Contact et version Web 
 [Ève Février](mailto:editionsLaPetiteOurse@gmail.com)  
 [Éditions la petite Ourse](https://evefevrier.github.io/editions-la-petite-ourse/)
  
