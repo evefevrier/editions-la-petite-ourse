@@ -23,9 +23,9 @@ Le site Web de [Richard Baillargeon](http://richardbaillargeon.ca) est maintenan
 
 ### Robots-romans
 avec les étudiant(e)s de première année de [TIM](https://timcsf.ca/)
-- [🤖🤖🤖 2022]()  // _not yet ready_
-- [🤖🤖 2021](https://evefevrier.github.io/robots-roman/)
-- [🤖 2020](https://evefevrier.github.io/robots-roman/2020/)  
+- 🤖🤖🤖 [Robots-roman 2022]()  // _coming soon!!_
+- 🤖🤖 [Robots-roman 2021](https://evefevrier.github.io/robots-roman/)
+- 🤖 [Robots-roman 2020](https://evefevrier.github.io/robots-roman/2020/)  
 
 ### Jeu "Mots de tête"
 - [Jouer à "Mots de tête"](https://evefevrier.github.io/wordle/)
