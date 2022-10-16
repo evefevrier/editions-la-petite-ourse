@@ -31,21 +31,20 @@ j'arriverai donc vers la fin de la séance de signatures
 # UMi
 *vendredi 23 septembre 2022*
 
-UMi sera son prochain prénom.  
+UMi est le prénom de l'avatar.  
 Un nom puissant donne du pouvoir.
-
 Changer de nom, comme [Norval](https://www.invaluable.com/artist/morisseau-norval-d313z56a5l/sold-at-auction-prices/) devenu le _Copper Thunderbird_. <a href="#noteWikipedia">(*)</a>    
+<del>
 Changement de vie et réincarnation.  
-La cérémonie de ce changement sera liée à l'émergence de la <strong style="color:orange">Guilde de la potière jalouse</strong>.
+La cérémonie de ce changement sera liée à l'émergence de la <strong style="color:orange">Guilde de la potière jalouse</strong>.</del>
 
 ~~Un nom puissant donne du pouvoir et une grande vulnérabilité.    
 Demain, c'est le passé et le passé est demain.~~
 
+<del>
 Parler de soi à la 3e personne.    
-Quand le corps n'est plus qu'un véhicule de communication.
-> elle pèse 112 livres,   
-j'aimerais qu'elle ressemble à la fille aux cheveux bleus de Bilal      
-mais en plusse badass comme Lisbeth Salander
+Quand le corps n'est plus qu'un véhicule de communication.</del>
 
+> Elle pèse 112 livres. Reste à peaufiner le look. Plus jeune, plus musclée, ce serait préférable. J'aimerais qu'elle ressemble à la fille aux cheveux bleus de Bilal mais en plusse badass comme Lisbeth Salander ([Noomi Rapace](https://fr.wikipedia.org/wiki/Noomi_Rapace) dans le rôle).
 
 (*) <q id="noteWikipedia"><small data-source="Wikipedia">Selon la tradition anishinaabe, donner un nom puissant à une personne mourante peut lui apporter une nouvelle énergie et sauver sa vie.</small></q>

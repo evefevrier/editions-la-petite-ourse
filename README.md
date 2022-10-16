@@ -21,8 +21,8 @@ Bilan :
   - <del>richardbaillargeon.com</del>  (邪恶的中国海盗)  
 - [L'histoire des noirs avec Webster](billets/webster.md)
 - [*Lets get respect for all*](billets/letsgetreal.md)
-- [Le cimetière de Ste-Justine](billets/short-expedition-01.md)
-- [Les jardins de Val-David](billets/first-roadtrip.md)
+- [Le culte des ancêtres](billets/short-expedition-01.md)
+- [Jardin de silice et jardin de sorcières](billets/first-roadtrip.md)
 
 ### Robots-romans
 avec les étudiant(e)s de première année de [TIM](https://timcsf.ca/)
