@@ -17,7 +17,7 @@ Un hâvre pour les petits poucets rêveurs et les pouceuses de la liberté de pe
 - [The Broker / Le courtier](billets/trapped.md)  
 Bilan :
   - [richardbaillargeon.ca](http://richardbaillargeon.ca) OK  
-  - [richard-baillargeon.com](http://richardbaillargeon.com) OK
+  - [richard-baillargeon.com](http://richard-baillargeon.com) OK
   - <del>richardbaillargeon.com</del>  (邪恶的中国海盗)  
 - [L'histoire des noirs avec Webster](billets/webster.md)
 - [*Lets get respect for all*](billets/letsgetreal.md)
