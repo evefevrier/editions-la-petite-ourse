@@ -7,12 +7,12 @@ Il faut donc:
    https://beta.openai.com/docs/introduction/key-concepts
 
 2. développer notre __libre arbitre__ à coups
-    - [ ] de pensée critique,
-    - [ ] de non-dits enfin exprimés,
-    - [ ] d'élan vital et de __joie__.
+    - de pensée critique,
+    - de non-dits enfin exprimés,
+    - d'élan vital et de __joie__.
   
 3. et développer notre libre arbitre implique de:  
 __faire la chasse aux [biais cognitifs](https://fr.wikipedia.org/wiki/Biais_cognitif#/media/Fichier:The_Cognitive_Bias_Codex_(French)_-_John_Manoogian_III_(jm3).svg)__... aussi férocement, que d'autres ont fait la chasse aux sorcières.  
   
-Une vidéo bien documentée pour mieux comprendre comment fonctionne OPEN AI:  
-- [Pourquoi OpenAI a créé GPT-3 ?](https://www.youtube.com/watch?v=e2Th_cPQ-l0)
+Une vidéo bien documentée pour mieux comprendre comment fonctionne OPEN AI:    
+[Pourquoi OpenAI a créé GPT-3 ?](https://www.youtube.com/watch?v=e2Th_cPQ-l0)
