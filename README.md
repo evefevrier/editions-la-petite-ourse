@@ -13,17 +13,6 @@ Un hâvre pour les petits poucets rêveurs et les pouceuses de la liberté de pe
 ### 👁️‍ Combattre les biais cognitifs en proposant de nouveaux angles de vision, des points de vue originaux et non conformistes. 
 
 ## Projets numériques
-### Le carnet d'UMi 🥷
-- [The Broker / Le courtier](billets/trapped.md)  
-Bilan :
-  - [richardbaillargeon.ca](http://richardbaillargeon.ca) OK  
-  - [richard-baillargeon.com](http://richard-baillargeon.com) OK
-  - <del>richardbaillargeon.com</del>  (邪恶的中国海盗)  
-- [L'histoire des noirs avec Webster](billets/webster.md)
-- [*Lets get respect for all*](billets/letsgetreal.md)
-- [Le culte des ancêtres](billets/short-expedition-01.md)
-- [Jardin de silice et jardin de sorcières](billets/first-roadtrip.md)
-
 ### Robots-romans
 avec les étudiant(e)s de première année de [TIM](https://timcsf.ca/)
 - 🤖🤖🤖 [Robots-roman 2022]()  // _coming soon!!_
@@ -33,6 +22,19 @@ avec les étudiant(e)s de première année de [TIM](https://timcsf.ca/)
 ### Jeu "Mots de tête"
 - [Jouer à "Mots de tête"](https://evefevrier.github.io/wordle/)
 - [Consulter le code du jeu et/ou y collaborer](https://github.com/evefevrier/wordle)
+
+### Le carnet d'UMi 🥷
+- [Le libre arbitre](https://evefevrier.github.io/billets/le-libre-arbitre.md)
+- [Les veuves](billets/les-veuves.md)
+- [The Broker / Le courtier](billets/trapped.md)  
+  Bilan :
+  - [richardbaillargeon.ca](http://richardbaillargeon.ca) OK
+  - [richard-baillargeon.com](http://richard-baillargeon.com) OK
+  - <del>richardbaillargeon.com</del>  (邪恶的中国海盗)
+- [L'histoire des noirs avec Webster](billets/webster.md)
+- [*Lets get respect for all*](billets/letsgetreal.md)
+- [Le culte des ancêtres](billets/short-expedition-01.md)
+- [Jardin de silice et jardin de sorcières](billets/first-roadtrip.md)
 
 ## Projets de livres imprimés
 - Ces parts d'ombre, Richard Baillargeon (à paraître en 2023) 
@@ -47,4 +49,5 @@ avec les étudiant(e)s de première année de [TIM](https://timcsf.ca/)
 ## Contact et version Web 
 [Ève Février](mailto:editionsLaPetiteOurse@gmail.com)  
 [Éditions la petite Ourse](https://evefevrier.github.io/editions-la-petite-ourse/)
+
  
