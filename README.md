@@ -24,7 +24,7 @@ avec les étudiant(e)s de première année de [TIM](https://timcsf.ca/)
 - [Consulter le code du jeu et/ou y collaborer](https://github.com/evefevrier/wordle)
 
 ### Le carnet d'UMi 🥷
-- [Le libre arbitre](https://evefevrier.github.io/billets/le-libre-arbitre.md)
+- [Le libre arbitre](billets/le-libre-arbitre.md)
 - [Les veuves](billets/les-veuves.md)
 - [The Broker / Le courtier](billets/trapped.md)  
   Bilan :
