@@ -1,6 +1,6 @@
 ## Qu'est-ce qui différencie le mieux l'intelligence humaine de l'intelligence artificielle?
-### C'est le libre arbitre.
-C'est le contraire de la fatalité, la liberté de créer de nouvelles solutions.
+Il y a les émotions, les affects, la conscience, la mémoire, la créativité, etc.   
+Mais le __libre arbitre__ est le principal. C'est le contraire de la fatalité, la liberté de créer de nouvelles solutions, faire des choix qui nous correspondent.
 
 Il faut donc:
 1. __chercher à comprendre l'intelligence artificielle__  
