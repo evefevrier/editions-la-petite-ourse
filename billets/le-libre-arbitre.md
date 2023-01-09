@@ -13,6 +13,6 @@ Il faut donc:
   
 3. et développer notre libre arbitre implique de:  
 __faire la chasse aux [biais cognitifs](https://fr.wikipedia.org/wiki/Biais_cognitif#/media/Fichier:The_Cognitive_Bias_Codex_(French)_-_John_Manoogian_III_(jm3).svg)__... aussi férocement, que d'autres ont fait la chasse aux sorcières.  
-
-Une vidéo bien documentée pour mieux comprendre comment fonctionne OPEN AI:
+  
+Une vidéo bien documentée pour mieux comprendre comment fonctionne OPEN AI:  
 - [Pourquoi OpenAI a créé GPT-3 ?](https://www.youtube.com/watch?v=e2Th_cPQ-l0)
