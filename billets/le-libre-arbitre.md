@@ -4,12 +4,14 @@ Mais le __libre arbitre__ est le principal. C'est le contraire de la fatalité, 
 
 Il faut donc:
 1. __chercher à comprendre l'intelligence artificielle__  
-   https://beta.openai.com/docs/introduction/key-concepts
+   [Concepts clés de OPEN AI (en anglais)](https://beta.openai.com/docs/introduction/key-concepts)
 
 2. développer notre __libre arbitre__ à coups
-    - de pensée critique,
+    - de __pensée critique__,
     - de non-dits enfin exprimés,
-    - d'élan vital et de __joie__.
+    - d'élan vital et de __joie__ de vivre,
+    - de __sagesse__ et de __compassion__.
+  
   
 3. et développer notre libre arbitre implique de:  
 __faire la chasse aux [biais cognitifs](https://fr.wikipedia.org/wiki/Biais_cognitif#/media/Fichier:The_Cognitive_Bias_Codex_(French)_-_John_Manoogian_III_(jm3).svg)__... aussi férocement, que d'autres ont fait la chasse aux sorcières.  
