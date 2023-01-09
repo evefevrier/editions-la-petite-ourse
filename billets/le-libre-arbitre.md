@@ -11,5 +11,6 @@ Il faut donc:
     - [ ] de non-dits enfin exprimés,
     - [ ] d'élan vital et de __joie__.
 
-3. et développer notre libre arbitre implique de faire la chasse aux [biais cognitifs](https://fr.wikipedia.org/wiki/Biais_cognitif#/media/Fichier:The_Cognitive_Bias_Codex_(French)_-_John_Manoogian_III_(jm3).svg)... aussi férocement, que d'autres ont fait la chasse aux sorcières.  
+3. et développer notre libre arbitre implique de:  
+__faire la chasse aux [biais cognitifs](https://fr.wikipedia.org/wiki/Biais_cognitif#/media/Fichier:The_Cognitive_Bias_Codex_(French)_-_John_Manoogian_III_(jm3).svg)__... aussi férocement, que d'autres ont fait la chasse aux sorcières.  
 
