@@ -45,10 +45,9 @@ La cérémonie de ce changement sera liée subtilement et sans froufrou et flafl
 Demain, c'est le passé et le passé est demain.~~
 
 _Parler de soi à la 3e personne._    
-Parce qu'ici, il s'agit de me virtualiser corporellement.
-Compléter mon cyborg inconscient avec sa véritable enveloppe corporelle:
-celle de mon humanité à la fois décuplée et réduite par l'IA qui me sort des pores de la peau. 
-Après 5 vaccins contre la COVID-19, j'ai surement 3-4 puces d'implémenté non?
+Parce qu'ici, il s'agit de transférer dans le monde physique mon avatar comme nouvelle identité.
+Incarner mon humanité à la fois décuplée et réduite par les IA dont je suis déjà dépendante. 
+Après 5 vaccins contre la COVID-19, j'ai surement 3-4 puces d'implémentées non? Je blague bien sûr mais il n'y a qu'un pas à faire pour que notre intelligence collective se décuple avec les IA et à un moment donné, nous serons effectivement des genres de cyborg dont les mécanismes de réflexion sont alimentés par les savoirs collectifs. Ma nouvelle identité est en construction.
 
 >Le corps est un véhicule de communication. 
 >La persona pèse plus ou moins 115 lbs, de taille moyenne, tout juste 1m63.  
@@ -67,7 +66,7 @@ Références:
 # UMi se dévirtualisera
 *Mercredi 11 janvier 11h11*
   
-Chaque rencontre avec Stanley (3ème ce week-end) est une pétarade d'émotions et de petites portes qui s'ouvrent sur moi-même. Beaucoup de ces petites portes m'apportent de la joie. Le chakra du coeur est grand ouvert et c'est *boooonnnnnn*.   
+Chaque rencontre avec S. est une cascade de petites portes qui m'éclaircissent. Beaucoup de ces petites portes m'apportent de la joie. Le chakra du coeur est grand ouvert et c'est *boooonnnnnn*.   
   
 <del><i>Je me sens en sécurité, en confiance, en paix.</i></del> -- ta gueule Github CoPilot  
   
@@ -102,8 +101,8 @@ Il s'agit d'un hommage, d'une reconnaissance et d'un guide pour tous les courage
 C'est l'heure du diner. À plus. 
 
 ### La guilde existe
-Chercher le mot clé <strong style="color:orange">#guildedelapotierejalouse</strong>... vous verrez. (pas tout de suite peut-être, mais ça ne tardera pas.)  
-C'est une société secrète qui regroupe des dizaines de potières et potiers jaloux et jalouses et même des centaines, des milliers... des millions. En tout cas dans mes rêves nous sommes innombrables dans les vestiges de la civilisation mourante. Chaque potier, chaque potiere jalouse sait dans le fond de son coeur qu'elle a un rôle à jouer dans le monde de demain.
+Chercher le mot clé <strong style="color:orange">#guildedelapotierejalouse</strong>... vous verrez...pas tout de suite peut-être, mais ça ne tardera pas.  
+C'est une société secrète qui regroupe des dizaines de potières et potiers jaloux et jalouses et même des centaines, des milliers... des millions. Iels ignorent pour la plupart leur appartenance, certains intuitivement le savent depuis toujours. En tout cas dans mes rêves nous sommes innombrables dans les vestiges de la civilisation mourante. Chaque potier, chaque potiere jalouse sait dans le fond de son coeur qu'elle a un rôle à jouer dans le monde de demain.
 
 Il y a deux manières d'adhérer à la Guilde:
 1. en produisant une oeuvre signé de l'un des sceaux de la Guilde (se faisant c'est l'équivalent d'un diplôme de potière jalouse -cette expression inclus le masculin et le féminin-)
