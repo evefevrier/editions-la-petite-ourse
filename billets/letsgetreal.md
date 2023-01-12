@@ -38,18 +38,24 @@ Un nom puissant donne du pouvoir.
 Changer de nom, comme [Norval](https://www.invaluable.com/artist/morisseau-norval-d313z56a5l/sold-at-auction-prices/) devenu le _Copper Thunderbird_. <a href="#noteWikipedia">(*)</a>    
 <del>
 Un tournant dans la vie, un virage vers l'ailleurs.  
-La cérémonie de ce changement sera liée subtileent et sans froufrou et flafla, 
+La cérémonie de ce changement sera liée subtilement et sans froufrou et flafla, 
 à l'émergence de la <strong style="color:orange">Guilde de la potière jalouse</strong>.</del>
 
 ~~Un nom puissant donne du pouvoir et une grande vulnérabilité.    
 Demain, c'est le passé et le passé est demain.~~
 
-
 _Parler de soi à la 3e personne._    
-Le corps est un véhicule de communication. 
-Elle pèse plus ou moins 115 lbs, de taille moyenne, tout juste 1m63.  
-Reste à peaufiner le look.   
-Plus jeune, plus musclée, ce serait préférable.   
+Parce qu'ici, il s'agit de me virtualiser corporellement.
+Compléter mon cyborg inconscient avec sa véritable enveloppe corporelle:
+celle de mon humanité à la fois décuplée et réduite par l'IA qui me sort des pores de la peau. 
+Après 5 vaccins contre la COVID-19, j'ai surement 3-4 puces d'implémenté non?
+
+>Le corps est un véhicule de communication. 
+>La persona pèse plus ou moins 115 lbs, de taille moyenne, tout juste 1m63.  
+>Reste à peaufiner le look: plus jeune, plus musclée, ce serait préférable.   
+
+Quand je pense qu'il y a depuis quelque temps pas mal de non renouvellement de contrats parmi les journalistes et présentatrices vieillissantes. Le cheveu gris n'est pas regardable ça l'air.
+
 Références:     
 1. la fille aux cheveux bleus de Bilal   
 ![fille-cheveux-bleu](../media/fille-cheveux-bleu.png)  
@@ -96,7 +102,7 @@ Il s'agit d'un hommage, d'une reconnaissance et d'un guide pour tous les courage
 C'est l'heure du diner. À plus. 
 
 ### La guilde existe
-Chercher le mot clé #guildedelapotierejalouse... vous verrez. (pas tout de suite peut-être, mais ça ne tardera pas.)  
+Chercher le mot clé <strong style="color:orange">#guildedelapotierejalouse</strong>... vous verrez. (pas tout de suite peut-être, mais ça ne tardera pas.)  
 C'est une société secrète qui regroupe des dizaines de potières et potiers jaloux et jalouses et même des centaines, des milliers... des millions. En tout cas dans mes rêves nous sommes innombrables dans les vestiges de la civilisation mourante. Chaque potier, chaque potiere jalouse sait dans le fond de son coeur qu'elle a un rôle à jouer dans le monde de demain.
 
 <hr>  
