@@ -105,6 +105,10 @@ C'est l'heure du diner. À plus.
 Chercher le mot clé <strong style="color:orange">#guildedelapotierejalouse</strong>... vous verrez. (pas tout de suite peut-être, mais ça ne tardera pas.)  
 C'est une société secrète qui regroupe des dizaines de potières et potiers jaloux et jalouses et même des centaines, des milliers... des millions. En tout cas dans mes rêves nous sommes innombrables dans les vestiges de la civilisation mourante. Chaque potier, chaque potiere jalouse sait dans le fond de son coeur qu'elle a un rôle à jouer dans le monde de demain.
 
+Il y a deux manières d'adhérer à la Guilde:
+1. en produisant une oeuvre signé de l'un des sceaux de la Guilde (se faisant c'est l'équivalent d'un diplôme de potière jalouse -cette expression inclus le masculin et le féminin-)
+2. en signant la pièce selon votre propre sceau mais en publiant la pièce avec le hashtag #guildedelapotierejalouse
+
 <hr>  
 (*) <q id="noteWikipedia"><small data-source="Wikipedia">Selon la tradition anishinaabe, donner un nom puissant à une personne mourante peut lui apporter une nouvelle énergie et sauver sa vie. 
 </small></q>  
