@@ -79,10 +79,10 @@ Hier, cette pensée m'a traversé l'esprit:
 Donc, comme je disais, cette pensée m'a été inspirée par une affirmation de ChatGPT qui m'a interpellé:
 > Parfois, le changement de nom peut être un moyen pour une artiste de s'éloigner de sa vie personnelle et de se concentrer sur son travail artistique.
 
-Il va falloir que j'explique ce qu'est *__la Guilde de la Potière Jalouse__*.
-Voilà mon principal projet, débuté à l'automne 2019, automne où, en congé avec salaire (traitement différé) je me suis lancé à corps perdu dans la poterie ou plutôt dans la céramique.
+## La Guilde de la Potière Jalouse
+Ce projet a débuté à l'automne 2019, automne pendant lequel j'étais en congé avec salaire (traitement différé). Je me suis lancé à corps perdu dans la poterie ou plutôt dans la céramique.
 
-Cet automne-là, j'ai aussi pris le cours "ART314 - Atelier du livre d'artiste"(**) à l'Université de Sherbrooke. En fait, je m'étais inscrite au "Microprogramme de 2e cycle en édition" mais je n'ai pris aucun cours dans ce programme, l'offre cet l'automne là ne me convenant pas. Le syllabus du cours ART314 m'a vraiment séduite et j'ai adoré ça. La prof nous a fait expérimenter diverses techniques d'impression, de transfert d'image et de reliure. Elle nous a amené consulter une sélection de la collection de livres d'artistes du BANQ... C'était juste *wow*.  
+Cet automne-là, j'ai aussi pris le cours "ART314 - Atelier du livre d'artiste"(**) à l'Université de Sherbrooke. En fait, je m'étais inscrite au "Microprogramme de 2e cycle en édition" mais je n'ai pris aucun cours dans ce programme, l'offre cet l'automne là ne me convenant pas. Le syllabus du cours ART314 m'a vraiment séduite et j'ai adoré ça. La prof (excellente Brigitte Roy) nous a fait expérimenter diverses techniques d'impression, de transfert d'image et de reliure. Elle nous a amené consulter une sélection de la collection de livres d'artistes du BANQ... C'était juste *wow*.  
 
 Voilà comment est né le *__Codex de la Guilde de la Potière Jalouse__*...  
 Un petit livre d'artiste comportant 4 pages en céramique et des couvertures cartonnées recouvertes de cuir. 
@@ -93,9 +93,12 @@ Il s'agit d'un hommage, d'une reconnaissance et d'un guide pour tous les courage
 
 (Parfois l'IA est une nuisance à l'élaboration de la pensée. Je dois éviter de regarder l'écran et les suggestions pendant que je précise mes idées. C'est seulement quand j'ai besoin d'aide et que je suis perplexe que ça peut être utile.)
 
-C'est l'heure du diner. À plus. <3
+C'est l'heure du diner. À plus. 
+
+### La guilde existe
+Chercher le mot clé #guildedelapotierejalouse... vous verrez. (pas tout de suite peut-être, mais ça ne tardera pas.)  
+C'est une société secrète qui regroupe des dizaines de potières et potiers jaloux et jalouses et même des centaines, des milliers... des millions. En tout cas dans mes rêves nous sommes innombrables dans les vestiges de la civilisation mourante. Chaque potier, chaque potiere jalouse sait dans le fond de son coeur qu'elle a un rôle à jouer dans le monde de demain.
 
 <hr>  
-(*) <q id="noteWikipedia"><small data-source="Wikipedia">Selon la tradition anishinaabe, donner un nom puissant à une personne mourante peut lui apporter une nouvelle énergie et sauver sa vie.<br>
-(**) J'ai oublié le nom de cette professeure géniale et merveilleuse. Je l'ajouterai plus tard!
+(*) <q id="noteWikipedia"><small data-source="Wikipedia">Selon la tradition anishinaabe, donner un nom puissant à une personne mourante peut lui apporter une nouvelle énergie et sauver sa vie. 
 </small></q>  
