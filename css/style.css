@@ -16,7 +16,8 @@ q:before, q:after{
 
 img{
     width: 200px;
-    border:4px solid hotpink;
+    border:3px solid hotpink;
+    margin:5px;
 }
 
 img[alt="Sur la tombe"],
