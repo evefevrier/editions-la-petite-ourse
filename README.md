@@ -24,6 +24,7 @@ avec les étudiant(e)s de première année de [TIM](https://timcsf.ca/)
 - [Consulter le code du jeu et/ou y collaborer](https://github.com/evefevrier/wordle)
 
 ### Le carnet d'UMi 🥷
+- [*Lets get respect for all*](billets/letsgetreal.md)
 - [IA et libre arbitre](billets/le-libre-arbitre.md)
 - [Les veuves](billets/les-veuves.md)
 - [The Broker / Le courtier](billets/trapped.md)  
@@ -32,7 +33,6 @@ avec les étudiant(e)s de première année de [TIM](https://timcsf.ca/)
   - [richard-baillargeon.com](http://richard-baillargeon.com) OK
   - <del>richardbaillargeon.com</del>  (邪恶的中国海盗)
 - [L'histoire des noirs avec Webster](billets/webster.md)
-- [*Lets get respect for all*](billets/letsgetreal.md)
 - [Le culte des ancêtres](billets/short-expedition-01.md)
 - [Jardin de silice et jardin de sorcières](billets/first-roadtrip.md)
 

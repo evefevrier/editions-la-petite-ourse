@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="../css/style.css">
 
-# Ma rencontre avec Stanley 
+# Histoires de Févriers
 
 > [Activer la pensée critique    
 S’attaquer aux causes profondes de l’exclusion systémique   
@@ -87,7 +87,7 @@ Donc, comme je disais, cette pensée m'a été inspirée par une affirmation de 
 ## La Guilde de la Potière Jalouse
 Ce projet a débuté à l'automne 2019, automne pendant lequel j'étais en congé avec salaire (traitement différé). Je me suis lancé à corps perdu dans la poterie ou plutôt dans la céramique.
 
-Cet automne-là, j'ai aussi pris le cours "ART314 - Atelier du livre d'artiste"(**) à l'Université de Sherbrooke. En fait, je m'étais inscrite au "Microprogramme de 2e cycle en édition" mais je n'ai pris aucun cours dans ce programme, l'offre cet l'automne là ne me convenant pas. Le syllabus du cours ART314 m'a vraiment séduite et j'ai adoré ça. La prof (excellente Brigitte Roy) nous a fait expérimenter diverses techniques d'impression, de transfert d'image et de reliure. Elle nous a amené consulter une sélection de la collection de livres d'artistes du BANQ... C'était juste *wow*.  
+Cet automne-là, j'ai aussi pris le cours "ART314 - Atelier du livre d'artiste"(****) à l'Université de Sherbrooke. En fait, je m'étais inscrite au "Microprogramme de 2e cycle en édition" mais je n'ai pris aucun cours dans ce programme, l'offre cet l'automne là ne me convenant pas. Le syllabus du cours ART314 m'a vraiment séduite et j'ai adoré ça. La prof (excellente Brigitte Roy) nous a fait expérimenter diverses techniques d'impression, de transfert d'image et de reliure. Elle nous a amené consulter une sélection de la collection de livres d'artistes du BANQ... C'était juste *wow*.  
 
 Voilà comment est né le *__Codex de la Guilde de la Potière Jalouse__*...  
 Un petit livre d'artiste comportant 4 pages en céramique et des couvertures cartonnées recouvertes de cuir. 
