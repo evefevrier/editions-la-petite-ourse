@@ -40,12 +40,12 @@ Source: <a href="https://ici.radio-canada.ca/nouvelle/1645627/ulay-et-marina-abr
 [//]: # (<del><i>Je me sens en sécurité, en confiance, en paix.</i></del> -- ta gueule Github CoPilot)
 
 [//]: # ()
-[//]: # (&#40;Je ne crois pas que *boooonnnnnn* soit dans le modèle de langage de l'IA. Mais ça viendra. Bientôt, elle aura en pâture mes écrits sur Github et plus tard vous pourrez demander un texte style "Ève Février". Mais vous aurez plutôt l'idée de demander un texte du style de l'excellent "David Goudreault" ou encore tiens, pourquoi pas style "Gaston Miron". Moi, je demanderai du style de "Margaret Atwood". Sa dystopie de "La servante écarlate" est un bijou de lucidité. Je l'admire sincèrement.&#41;)
+[//]: # (Je ne crois pas que *boooonnnnnn* soit dans le modèle de langage de l'IA. Mais ça viendra. Bientôt, elle aura en pâture mes écrits sur Github et plus tard vous pourrez demander un texte style "Ève Février". Mais vous aurez plutôt l'idée de demander un texte du style de l'excellent "David Goudreault" ou encore tiens, pourquoi pas style "Gaston Miron". Moi, je demanderai du style de "Margaret Atwood". Sa dystopie de "La servante écarlate" est un bijou de lucidité. Je l'admire sincèrement. )
 
 [//]: # ()
 [//]: # (Je vais écrire plus souvent içi.)
 
-[//]: # (L'objectif est de libérer UMi.)
+L'objectif est de libérer UMi.
 
 [//]: # (Hier, cette pensée m'a traversé l'esprit:)
 
