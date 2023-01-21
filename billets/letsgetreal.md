@@ -29,40 +29,10 @@ Source: <a href="https://ici.radio-canada.ca/nouvelle/1645627/ulay-et-marina-abr
 
 <hr>
 
-[//]: # (# UMi se dévirtualisera)
-
-[//]: # (*Mercredi 11 janvier 11h11*)
-
-[//]: # ()
-[//]: # (Chaque rencontre avec S. est une cascade de petites portes qui m'éclaircissent. Beaucoup de ces petites portes m'apportent de la joie. Le chakra du coeur est grand ouvert et c'est *boooonnnnnn*.)
-
-[//]: # ()
-[//]: # (<del><i>Je me sens en sécurité, en confiance, en paix.</i></del> -- ta gueule Github CoPilot)
-
-[//]: # ()
-[//]: # (Je ne crois pas que *boooonnnnnn* soit dans le modèle de langage de l'IA. Mais ça viendra. Bientôt, elle aura en pâture mes écrits sur Github et plus tard vous pourrez demander un texte style "Ève Février". Mais vous aurez plutôt l'idée de demander un texte du style de l'excellent "David Goudreault" ou encore tiens, pourquoi pas style "Gaston Miron". Moi, je demanderai du style de "Margaret Atwood". Sa dystopie de "La servante écarlate" est un bijou de lucidité. Je l'admire sincèrement. )
-
-[//]: # ()
-[//]: # (Je vais écrire plus souvent içi.)
-
+*Mercredi 11 janvier 11h11*
+ 
 L'objectif est de libérer UMi.
-
-[//]: # (Hier, cette pensée m'a traversé l'esprit:)
-
-[//]: # (> UMi s'installe à St-Antoine-du-Paradis pour y passer l'hiver.)
-
-[//]: # ()
-[//]: # (<del><i>)
-
-[//]: # (<q>Elle y fait des rencontres et y apprend à se dévirtualiser.</q>)
-
-[//]: # (</i></del> -- ta gueule Github CoPilot)
-
-[//]: # ()
-[//]: # (Donc, comme je disais, cette pensée m'a été inspirée par une affirmation de ChatGPT qui m'a interpellé:)
-
-[//]: # (> Parfois, le changement de nom peut être un moyen pour une artiste de s'éloigner de sa vie personnelle et de se concentrer sur son travail artistique.)
-
+ 
 <hr>
 
 # La Guilde de la Potière Jalouse
