@@ -23,8 +23,10 @@ avec les étudiant(e)s de première année de [TIM](https://timcsf.ca/)
 - [Jouer à "Mots de tête"](https://evefevrier.github.io/wordle/)
 - [Consulter le code du jeu et/ou y collaborer](https://github.com/evefevrier/wordle)
 
-### Le carnet d'UMi 🥷
+### Tutoriels recommandés pour les auteurs et autrices
+- [Git et Github pour les poètes](https://thecodingtrain.com/tracks/git-and-github-for-poets)
 
+### Le carnet d'UMi 🥷
 - [*Lets get respect for all*](billets/letsgetreal.md)
 - [IA et libre arbitre](billets/le-libre-arbitre.md)
 - [Les veuves](billets/les-veuves.md)
