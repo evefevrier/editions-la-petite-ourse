@@ -25,7 +25,7 @@ avec les étudiant(e)s de première année de [TIM](https://timcsf.ca/)
 
 ### Le carnet d'UMi 🥷
 
-[//]: # (- [*Lets get respect for all*]&#40;billets/letsgetreal.md&#41;)
+- [*Lets get respect for all*](billets/letsgetreal.md)
 - [IA et libre arbitre](billets/le-libre-arbitre.md)
 - [Les veuves](billets/les-veuves.md)
 
@@ -39,21 +39,19 @@ avec les étudiant(e)s de première année de [TIM](https://timcsf.ca/)
 
 [//]: # (  - <del>richardbaillargeon.com</del>  &#40;邪恶的中国海盗&#41;)
 - [L'histoire des noirs avec Webster](billets/webster.md)
-
-[//]: # (- [Le culte des ancêtres]&#40;billets/short-expedition-01.md&#41;)
+- [Le culte des ancêtres](billets/short-expedition-01.md)
 - [Jardin de silice et jardin de sorcières](billets/first-roadtrip.md)
 
 ## Projets de livres imprimés
-- Ces parts d'ombre, Richard Baillargeon (à paraître en 2023) 
-
-## Collectifs proches ❤️ ❤️‍🔥 💥
-- [Collectif La Fatigue](https://www.facebook.com/editionslafatigue)
-- [Collectif le Bestiaire](https://www.facebook.com/Collectif-Le-Bestiaire-110584058092835)
-
+- *Ces parts d'ombre*, Richard Baillargeon (à paraître en 2023) 
+ 
 ## Partenaires
 [Le Pieu, atelier d'impression](https://www.facebook.com/atelierlepieu)
+![lePieu-riso-mz](media/lePieu-riso-mz.jpeg)
+[Collectif La Fatigue](https://www.facebook.com/editionslafatigue)
+![lePieu-police-venus](media/lePieu-police-venus.jpeg)
 
-## Contact et version Web 
+## Contact 
 [Ève Février](mailto:editionsLaPetiteOurse@gmail.com)  
 [Éditions la petite Ourse](https://evefevrier.github.io/editions-la-petite-ourse/)
 
