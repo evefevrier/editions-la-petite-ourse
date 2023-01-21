@@ -15,7 +15,7 @@ Il est courant pour les artistes de choisir un nom de scène pour se démarquer 
 Voici un extrait de l'[article de Wikipedia sur Norval Morriseau](https://fr.wikipedia.org/wiki/Norval_Morrisseau) :
 > À l'âge de 19 ans, il tombe gravement malade de la tuberculose. Il séjourne au sanatorium de Fort William 5. Il est emmené chez un médecin, mais sa santé continue de se dégrader. Il a alors une vision du manitou, qui lui assure sa protection. Craignant pour sa vie, sa mère appelle une femme médecin, qui effectue une cérémonie de changement de nom : elle lui donne le nouveau nom d'Oiseau-Tonnerre de Cuivre (Copper Thunderbird). Selon la tradition anishinaabe, donner un nom puissant à une personne mourante peut lui apporter une nouvelle énergie et sauver sa vie. Morrisseau se rétablit après la cérémonie et, dès lors, il signe toujours ses œuvres de son nouveau nom.  
 
-> [UMi] Développe ce sujet en lien avec les arts visuels contemporains en mettant en relief le rôle d'un changement de nom ou d'un changements d'apparence dans la démarche d'un artiste. Exemples détaillés et données factuelles  
+> [UMi] Développe ce sujet en lien avec les arts visuels contemporains en mettant en relief le rôle d'un changement de nom ou d'un changement d'apparence dans la démarche d'un artiste. Exemples détaillés et données factuelles  
   
 > [ChatGPT-3] Il y a de nombreux exemples d'artistes qui ont choisi de changer de nom ou d'apparence pour diverses raisons. Dans les arts visuels contemporains, cela peut être un moyen pour l'artiste de s'exprimer de manière plus authentique ou de créer une identité qui reflète leur travail et leur message artistique. Parfois, le changement de nom peut être un moyen pour l'artiste de s'éloigner de leur vie personnelle et de se concentrer sur leur travail artistique. Un exemple célèbre d'un artiste qui a choisi de changer de nom est Marina Abramovic, qui a changé son nom de "Marina Abramovic" à "Marina Abramovic-Ulay" lorsqu'elle a commencé à travailler en collaboration avec Ulay. Cela reflétait leur relation artistique et leur collaboration sur de nombreuses performances.  
   
@@ -29,28 +29,43 @@ Source: <a href="https://ici.radio-canada.ca/nouvelle/1645627/ulay-et-marina-abr
 
 <hr>
 
-# UMi se dévirtualisera
-*Mercredi 11 janvier 11h11*
+[//]: # (# UMi se dévirtualisera)
 
-Chaque rencontre avec S. est une cascade de petites portes qui m'éclaircissent. Beaucoup de ces petites portes m'apportent de la joie. Le chakra du coeur est grand ouvert et c'est *boooonnnnnn*.
+[//]: # (*Mercredi 11 janvier 11h11*)
 
-<del><i>Je me sens en sécurité, en confiance, en paix.</i></del> -- ta gueule Github CoPilot
+[//]: # ()
+[//]: # (Chaque rencontre avec S. est une cascade de petites portes qui m'éclaircissent. Beaucoup de ces petites portes m'apportent de la joie. Le chakra du coeur est grand ouvert et c'est *boooonnnnnn*.)
 
-(Je ne crois pas que *boooonnnnnn* soit dans le modèle de langage de l'IA. Mais ça viendra. Bientôt, elle aura en pâture mes écrits sur Github et plus tard vous pourrez demander un texte style "Ève Février". Mais vous aurez plutôt l'idée de demander un texte du style de l'excellent "David Goudreault" ou encore tiens, pourquoi pas style "Gaston Miron". Moi, je demanderai du style de "Margaret Atwood". Sa dystopie de "La servante écarlate" est un bijou de lucidité. Je l'admire sincèrement.)
+[//]: # ()
+[//]: # (<del><i>Je me sens en sécurité, en confiance, en paix.</i></del> -- ta gueule Github CoPilot)
 
-Je vais écrire plus souvent içi.
-L'objectif est de libérer UMi.
-Hier, cette pensée m'a traversé l'esprit:
-> UMi s'installe à St-Antoine-du-Paradis pour y passer l'hiver.
+[//]: # ()
+[//]: # (&#40;Je ne crois pas que *boooonnnnnn* soit dans le modèle de langage de l'IA. Mais ça viendra. Bientôt, elle aura en pâture mes écrits sur Github et plus tard vous pourrez demander un texte style "Ève Février". Mais vous aurez plutôt l'idée de demander un texte du style de l'excellent "David Goudreault" ou encore tiens, pourquoi pas style "Gaston Miron". Moi, je demanderai du style de "Margaret Atwood". Sa dystopie de "La servante écarlate" est un bijou de lucidité. Je l'admire sincèrement.&#41;)
 
-<del><i>
-<q>Elle y fait des rencontres et y apprend à se dévirtualiser.</q>
-</i></del> -- ta gueule Github CoPilot
+[//]: # ()
+[//]: # (Je vais écrire plus souvent içi.)
 
-Donc, comme je disais, cette pensée m'a été inspirée par une affirmation de ChatGPT qui m'a interpellé:
-> Parfois, le changement de nom peut être un moyen pour une artiste de s'éloigner de sa vie personnelle et de se concentrer sur son travail artistique.
+[//]: # (L'objectif est de libérer UMi.)
 
-## La Guilde de la Potière Jalouse
+[//]: # (Hier, cette pensée m'a traversé l'esprit:)
+
+[//]: # (> UMi s'installe à St-Antoine-du-Paradis pour y passer l'hiver.)
+
+[//]: # ()
+[//]: # (<del><i>)
+
+[//]: # (<q>Elle y fait des rencontres et y apprend à se dévirtualiser.</q>)
+
+[//]: # (</i></del> -- ta gueule Github CoPilot)
+
+[//]: # ()
+[//]: # (Donc, comme je disais, cette pensée m'a été inspirée par une affirmation de ChatGPT qui m'a interpellé:)
+
+[//]: # (> Parfois, le changement de nom peut être un moyen pour une artiste de s'éloigner de sa vie personnelle et de se concentrer sur son travail artistique.)
+
+<hr>
+
+# La Guilde de la Potière Jalouse
 Ce projet a débuté à l'automne 2019, automne pendant lequel j'étais en congé avec salaire (traitement différé). Je me suis lancé à corps perdu dans la poterie ou plutôt dans la céramique.
 
 Cet automne-là, j'ai aussi pris le cours "ART314 - Atelier du livre d'artiste"(****) à l'Université de Sherbrooke. En fait, je m'étais inscrite au "Microprogramme de 2e cycle en édition" mais je n'ai pris aucun cours dans ce programme, l'offre cet automne là ne me convenant pas. Le syllabus du cours ART314 m'a vraiment séduite et j'ai adoré ça. La prof (excellente Brigitte Roy) nous a fait expérimenter diverses techniques d'impression, de transfert d'image et de reliure. Elle nous a amené consulter une sélection de la collection de livres d'artistes du BANQ... C'était juste *wow*.
@@ -66,7 +81,7 @@ Il s'agit d'un hommage, d'une reconnaissance et d'un guide pour tous les courage
 
 C'est l'heure du diner. À plus.
 
-### La guilde existe
+## La guilde existe
 Chercher le mot clé <strong style="color:orange">#guildedelapotierejalouse</strong>... vous verrez...pas tout de suite peut-être, mais ça ne tardera pas.  
 C'est une société secrète qui regroupe des dizaines de potières et potiers jaloux et jalouses et même des centaines, des milliers... des millions. Iels ignorent pour la plupart leur appartenance, certains intuitivement le savent depuis toujours. En tout cas dans mes rêves nous sommes innombrables dans les vestiges de la civilisation mourante. Chaque potier, chaque potiere jalouse sait dans le fond de son coeur qu'elle a un rôle à jouer dans le monde de demain.
 
