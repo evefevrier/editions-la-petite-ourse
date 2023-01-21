@@ -46,8 +46,9 @@ avec les étudiant(e)s de première année de [TIM](https://timcsf.ca/)
 - *Ces parts d'ombre*, Richard Baillargeon (à paraître en 2023) 
  
 ## Partenaires
-[Collectif La Fatigue](https://www.facebook.com/editionslafatigue)
-[Le Pieu, atelier d'impression](https://www.facebook.com/atelierlepieu)
+[Collectif La Fatigue](https://www.facebook.com/editionslafatigue)  
+[Le Pieu, atelier d'impression](https://www.facebook.com/atelierlepieu)  
+  
 ![lePieu-riso-mz](media/lePieu-riso-mz.jpeg)
 
 [//]: # (![lePieu-police-venus]&#40;media/lePieu-police-venus.jpeg&#41;)
