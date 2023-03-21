@@ -1,8 +1,15 @@
 <link rel="stylesheet" href="../css/style.css">
 
-# Let's get respect for all / Let's get real
+# En route vers la réalité
   
-# Conversation avec ChatGPT sur le rôle d'un changement de nom ou d'apparence dans la démarche d'un(e) artiste
+
+## Le 18 novembre 2021, 19h30 Entrée #24
+> Jour de départ de Kaya qui retourne en Belgique avant de se rendre au Portugal où elle étudie le fado. 
+> Je propose à Stanley Février d'être sa mère adoptive. Il accepte. 
+
+[Comment extraire une conversation de messenger?](https://www.youtube.com/watch?v=TDKyj3oYeUM)
+
+## Conversation avec ChatGPT sur le rôle d'un changement de nom ou d'apparence dans la démarche d'un(e) artiste
 > [UMi] Un nom puissant donne du pouvoir et une grande vulnérabilité.
 Norval Morriseau a pris le nom de "Copper Thunderbird" et cela lui a sauvé la vie.
 Beaucoup d'artistes change de nom afin d'exprimer un changement dans leur identité.
