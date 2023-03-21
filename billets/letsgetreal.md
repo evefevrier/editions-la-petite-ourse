@@ -3,9 +3,11 @@
 # En route vers la réalité
   
 
-## Le 18 novembre 2021, 19h30 Entrée #24
-> Jour de départ de Kaya qui retourne en Belgique avant de se rendre au Portugal où elle étudie le fado. 
-> Je propose à Stanley Février d'être sa mère adoptive. Il accepte. 
+[//]: # (## Le 18 novembre 2021, 19h30 Entrée #24)
+
+[//]: # (> Jour de départ de Kaya qui retourne en Belgique avant de se rendre au Portugal où elle étudie le fado. )
+
+[//]: # (> Je propose à Stanley Février d'être sa mère adoptive. Il accepte. )
 
 [Comment extraire une conversation de messenger?](https://www.youtube.com/watch?v=TDKyj3oYeUM)
 
@@ -108,9 +110,7 @@ Références:
 S’attaquer aux causes profondes de l’exclusion systémique   
 et au déséquilibre des pouvoirs dans les arts.](https://www.fevrierstanley.com/)
 
-![stan1](../media/meeting-stanley.png)  
-![stan2](../media/chatting-with-stanley.png) 
-![stan3](../media/confidences.png)
+![stan1](../media/meeting-stanley.png) ![stan2](../media/chatting-with-stanley.png) ![stan3](../media/confidences.png)
 
 Dans la vingtaine, mon amie Barbara Michaud m'a fait connaître [Luce Irigaray](https://fr.wikipedia.org/wiki/Luce_Irigaray).  
 J'ai flashé sur son essai *«Le mystère oublié des généalogies féminines»*. 
