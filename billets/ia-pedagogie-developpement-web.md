@@ -19,7 +19,7 @@ Comment avons-nous réussi à renverser la vapeur?
 Quelles solutions créatives avons-nous mis en place
 en s’appuyant sur l’intelligence artificielle?
 
-Afin de sensibiliser les personnes étudiantes à l'IA, je leur propose l'écoute des premiers épisodes du balado français "AlgoPop" qui mets en relation des classiques du cinéma de science-fiction avec des concepts de l'intelligence artificielle. De *2001, Odyssée de l'espace* à des épisodes de *Black Mirror*, en passant par *Rapport minoritaire* et bien sûr *Terminator*, les concepts d'intelligence artificielle spécifique à générale sont abordés ainsi que la singularité, le transhumanisme, l'effet Éliza, la théorie du Nudge, les biais algorithmiques et les biais cognitifs.  
+Afin de sensibiliser les personnes étudiantes à l'IA, je leur propose l'écoute des premiers épisodes du [balado français "Algo qPop"](https://www.majelan.com/programs/d8f92b19-eb66-4d6a-8cdc-2fccf494b90a) qui mets en relation des classiques du cinéma de science-fiction avec des concepts de l'intelligence artificielle. De *2001, Odyssée de l'espace* à des épisodes de *Black Mirror*, en passant par *Rapport minoritaire* et bien sûr *Terminator*, les concepts d'intelligence artificielle spécifique à générale sont abordés ainsi que la singularité, le transhumanisme, l'effet Éliza, la théorie du Nudge, les biais algorithmiques et les biais cognitifs.  
 
 Voici les portails des projets 
 - __2020__ [evefevrier.github.io/robotsroman/2020](https://evefevrier.github.io/robotsroman/2020), 
