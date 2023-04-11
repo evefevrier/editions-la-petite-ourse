@@ -1,0 +1,59 @@
+# Intelligence artificielle et enseignement de la programmation
+
+À l'automne 2020, dans le cadre d'un cours d'introduction à la programmation, j'ai commencé à faire avec mes étudiants un projet nommé *Robots-roman*. Dans ce cours, mon but premier est de leur faire découvrir la programmation de manière visuelle et ludique, nous utilisons pour cela la bibliothèque P5JS. Rapidement les personnes étudiantes doivent explorer les fonctions de dessin pour créer un robot. Ensuite, on ajoute de l'animation et de l'interactivité et puis un décor et finalement ils doivent rédiger une description de leur robot répondant à la question:
+
+> À qui, à quoi servirait ton robot s'il était réel et doté d'intelligence artificielle?
+
+Voici la mise en situation initiale:
+
+> 2061  
+J’ai 97 ans.  
+Je suis encore lucide et mobile mais très ratatinée et frêle.  
+On se rencontre par hasard à quelque part d’improbable.  
+Le soleil offre sa belle lumière automnale, la vie foisonne partout, l’air est bon,
+on entend les mésanges chanter, un chien japper,
+des rires d’enfants…
+Oui, la planète va mieux!
+Que s’est-il passé?
+Comment avons-nous réussi à renverser la vapeur?
+Quelles solutions créatives avons-nous mis en place
+en s’appuyant sur l’intelligence artificielle?
+
+Afin de sensibiliser les personnes étudiantes à l'IA, je leur propose l'écoute des premiers épisodes du balado français "AlgoPop" qui mets en relation des classiques du cinéma de science-fiction avec des concepts de l'intelligence artificielle. De *2001, Odyssée de l'espace* à des épisodes de *Black Mirror*, en passant par *Rapport minoritaire* et bien sûr *Terminator*, les concepts d'intelligence artificielle spécifique à générale sont abordés ainsi que la singularité, le transhumanisme, l'effet Éliza, la théorie du Nudge, les biais algorithmiques et les biais cognitifs.  
+
+Voici les portails des projets 
+- __2020__ [evefevrier.github.io/robotsroman/2020](https://evefevrier.github.io/robotsroman/2020), 
+- __2021__ [evefevrier.github.io/robotsroman/2021](https://evefevrier.github.io/robotsroman/2021) 
+- __2022__ [evefevrier.github.io/robotsroman/](https://evefevrier.github.io/robotsroman/).  
+
+À chaque édition, le thème des robots nous a permis de discuter de ce qu'est l'intelligence artificielle, de ce qu'elle peut faire mais surtout de développer un esprit critique face à l'IA.
+
+À l'automne 2022, nous avons donc suivi de très près les progrès de l'IA dans le domaine de la création de contenu. La première IA qui a fait irruption dans le cours d'_introduction à la programmation_ est Github CoPilot. Cet assistant de programmation peut générer à partir d'un commentaire décrivant une fonction, une fonction complète. Évidemment, c'est un accélérateur, une aide précieuse pour une programmeuse chevronnée qui sait discerner la meilleure solution et identifier les faiblesses du code proposé, mais pour un néophyte résoudre des problèmes sans en maîtriser la solution va à contresens de l'acquisition de compétences.
+
+Pour ceux et celles qui comme moi ont l'habitude de rédiger des textes au format *MarkDown* dans un éditeur de code, *Github CoPilot* est bavard. Une vrai pie. Il n'attend pas qu'on formule une requête comme chat GPT, il suggère constamment des fins de phrase, du texte qui est parfois utile mais le plus souvent nuisible car au lieu d'être en train de préciser notre pensée en écrivant, on se fait déconcentrer par les suggestions de l'IA.  
+  
+![](../media/desactiver-copilot.png)
+<small>Après avoir écrit "L'activité principale était:", CoPilot me suggère quelle était l'activité principale!! Comme s'il pouvait savoir... Bien sûr mon activité principale n'avait rien à voir avec un exercice de révision sur les bases de données relationnelles. </small>
+
+Plusieurs personnes étudiantes ont installé l'extension Github CoPilot dans leur éditeur de code. Plusieurs l'ont rapidement désactivé après s'être aperçu qu'ils trouvaient ça plus mêlant que aidant recevoir des suggestions qui peuvent n'avoir aucun rapport avec leur intention de programmation et leur niveau de connaissance.
+
+Bientôt Dall-e et MidJourney se sont manifestés et ont été adoptés rapidement par les *gamers* qui respirent depuis longtemps dans *Discord*. En classe, la nouvelle d'[une IA qui aurait remporté un concours de peinture](https://ici.radio-canada.ca/nouvelle/1910055/jason-allen-concours-arts-ia-midjourney) a suscité des discussions sur les enjeux éthiques et les droits d'auteur.
+
+ChatGPT est arrivé à la fin de la session juste à temps pour que quelques allumés l'utilisent pour compléter des travaux dans leurs cours de formation générale en prenant le raccourci des réponses de ChatGPT.   
+Au début de la session d'hiver j'ai retrouvé mes étudiants de l'automne dans le cours d'Intégration II. D'entrée de jeu, nous avons fait le point sur les outils d'intelligence artificielle à notre disposition dans le domaine de la programmation et du développement Web.
+Chat GPT a pris beaucoup de place dans cette activité brise-glace. Qui l'a essayé? Ouais... qu'est-ce que tu lui as demandé? Comment t'as formulé ton _prompt_ ? Haha on peut lui faire dire des niaiseries!? Il peut se tromper... donc il faut vérifier ce qu'il avance... Est-il biaisé? Si oui, quels sont ses biais?...
+
+En conclusion, cette réflexion amorcée il y a près de 3 ans avec l'avènement de la pandémie, nous(1) amène à considérer les IA comme des outils qu'il faut apprendre à utiliser. Celà implique des efforts pour comprendre leur fonctionnement et leurs limites. Par ailleurs, la pédagogie collégiale doit rester centrée sur la formation d'êtres humains capables de réfléchir par eux-mêmes et de mettre des mots sur leur réflexion. 
+
+Le cégep offre et doit continuer à offrir un milieu de vie respectueux de la neurodiversité et inclusif. Un milieu sécuritaire où des êtres humains peuvent s'épanouir en affirmant leur individualité, leur libre arbitre, leur créativité. 
+
+Nous devons former des personnes capables de coopérer pour trouver des solutions, des personnes capables de participer à une __intelligence collective__ à laquelle les IA présentes et futures devront être __soumises__. 
+
+---
+(1)   
+<small>J'élargis le *je* au *nous* en faisant référence à la communauté d'apprentissage formée par les 3 plus récentes cohortes de personnes étudiantes dans le programme Techniques d'intégration multimédia du Cégep de Sainte-Foy.</small>
+
+
+
+
+

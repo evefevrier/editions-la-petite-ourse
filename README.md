@@ -28,6 +28,7 @@ avec les étudiant(e)s de première année de [TIM](https://timcsf.ca/)
 
 ### Le carnet d'UMi 🥷
 
+- [Intelligence artificielle et enseignement de la programmation](billets/ia-pedagogie-developpement-web.md)
 - [En route vers la réalité](billets/letsgetreal.md)
 - [IA et libre arbitre](billets/le-libre-arbitre.md)
 - [Les veuves](billets/les-veuves.md)
