@@ -47,9 +47,10 @@ avec les étudiant(e)s de première année de [TIM](https://timcsf.ca/)
 - [Le culte des ancêtres](billets/short-expedition-01.md)
 - [Jardin de silice et jardin de sorcières](billets/first-roadtrip.md)
 
-## Projets de livres imprimés
-- *La Walking Woman de l'île d'Orléans* (en préparation)
-- *Ces parts d'ombre*, Richard Baillargeon (à paraître en 2023) 
+## À paraître
+
+[//]: # (- *La Walking Woman de l'île d'Orléans* &#40;en préparation&#41;)
+- *Ces parts d'ombre*, Richard Baillargeon (automne 2023) 
  
 ## Partenaires
 [Collectif La Fatigue](https://www.facebook.com/editionslafatigue)  
@@ -57,7 +58,7 @@ avec les étudiant(e)s de première année de [TIM](https://timcsf.ca/)
   
 ![lePieu-riso-mz](media/lePieu-riso-mz.jpeg)
 
-[//]: # (![lePieu-police-venus]&#40;media/lePieu-police-venus.jpeg&#41;)
+![lePieu-police-venus](media/lePieu-police-venus.jpeg)
 
 ## Contact 
 [Ève Février](mailto:editionsLaPetiteOurse@gmail.com)  

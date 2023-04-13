@@ -9,7 +9,7 @@
 
 [//]: # (> Je propose à Stanley Février d'être sa mère adoptive. Il accepte. )
 
-[Comment extraire une conversation de messenger?](https://www.youtube.com/watch?v=TDKyj3oYeUM)
+[//]: # ([Comment extraire une conversation de messenger?]&#40;https://www.youtube.com/watch?v=TDKyj3oYeUM&#41;)
 
 ## Conversation avec ChatGPT sur le rôle d'un changement de nom ou d'apparence dans la démarche d'un(e) artiste
 > [UMi] Un nom puissant donne du pouvoir et une grande vulnérabilité.
