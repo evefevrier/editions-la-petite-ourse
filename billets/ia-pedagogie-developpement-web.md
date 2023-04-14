@@ -22,9 +22,9 @@ en s’appuyant sur l’intelligence artificielle?
 Afin de sensibiliser les personnes étudiantes à l'IA, je leur propose l'écoute des premiers épisodes du [balado français "Algo Pop"](https://www.majelan.com/programs/d8f92b19-eb66-4d6a-8cdc-2fccf494b90a) qui mets en relation des classiques du cinéma de science-fiction avec des concepts de l'intelligence artificielle. De *2001, Odyssée de l'espace* à des épisodes de *Black Mirror*, en passant par *Rapport minoritaire* et bien sûr *Terminator*, les concepts d'intelligence artificielle spécifique à générale sont abordés ainsi que la [singularité](https://fr.wikipedia.org/wiki/Singularit%C3%A9_technologique), le [transhumanisme](https://fr.wikipedia.org/wiki/Transhumanisme), [l'effet Éliza](https://fr.wikipedia.org/wiki/Effet_ELIZA), la [théorie du *nudge*](https://fr.wikipedia.org/wiki/Th%C3%A9orie_du_nudge), les [biais algorithmiques](https://fr.wikipedia.org/wiki/Biais_algorithmique) et les [biais cognitifs](https://fr.wikipedia.org/wiki/Biais_cognitif).  
 
 Éditions du projet robotsroman 
-- [Portail des projets 2020](https://evefevrier.github.io/robotsroman/2020) 
-- [Portail des projets 2021](https://evefevrier.github.io/robotsroman/2021) 
-- [Portail des projets 2022](https://evefevrier.github.io/robotsroman/)  
+- [Portail des projets 2020](https://evefevrier.github.io/robots-roman/2020) 
+- [Portail des projets 2021](https://evefevrier.github.io/robots-roman/2021) 
+- [Portail des projets 2022](https://evefevrier.github.io/robots-roman/)  
 
 À chaque édition, le thème des robots nous a permis de discuter de ce qu'est l'intelligence artificielle, de ce qu'elle peut faire mais surtout de développer un esprit critique face à l'IA.
 
