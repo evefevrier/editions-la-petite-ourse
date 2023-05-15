@@ -13,7 +13,7 @@ Un hâvre pour les petits poucets rêveurs et les pouceuses de la liberté de pe
 ### 👁️‍ Combattre les biais cognitifs en proposant de nouveaux angles de vision, des points de vue originaux et non conformistes. 
 
 
-## Stage de 8 semaines comme Codeuse-Autrice pour **la petite ourse*
+## Stage de 8 semaines comme Codeuse-Autrice pour *la petite ourse*
 ### Non-rémunéré en $ 
 Tu as le goût d'écrire tes pensées et les préciser à volonté par des retouches au fil du temps... tu cherches un mode d'expression qui allie spontanéité et réflexion... qui permet d'associer différents media ou même être constitué essentiellement d'un ou un autre media à l'instar d'Instagram mais avec la possibilité de jouer sur la ligne de temps, d'avoir davantage de contrôle d'édition pour se permettre davantage de liberté. Tu choisis ton pseudo si tu prèfères ne pas utiliser ton identité de tous les jours. Pas de censure mais de grandes attentes dans la qualité d'écriture et la pureté des émotions. <a href="mailto:editionslapetiteourse@gmail.com">Écris-moi</a> pour me faire connaître ton intérêt. Il y aura bientôt un lien vers une procédure détaillée.
 
