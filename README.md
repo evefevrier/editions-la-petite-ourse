@@ -55,7 +55,7 @@ avec les étudiant(e)s de première année de [TIM](https://timcsf.ca/)
 
 ## À paraître
 
-[//]: # (- *La Walking Woman de l'île d'Orléans* &#40;en préparation&#41;)
+- *[La Walking Woman de l'île d'Orléans](titres/cl/cecile-l-étourneau.md)* (en préparation)
 - *Ces parts d'ombre*, Richard Baillargeon (automne 2023) 
  
 ## Partenaires
