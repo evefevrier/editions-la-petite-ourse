@@ -1,3 +1,6 @@
+[Portraitiste](un.md) | [Paysagiste](deux.md) | [Performeuse](trois.md)
+
+
 # Portraitiste, dessinatrice d'audience
 > Cameras and other recording devices have been prohibited for decades in the vast majority of US federal courtrooms, leaving a record of proceedings in the hands of sketch artists. Their work is done under intense pressure. The images are usually filed at the hearing's next adjournment which means they can appear on front pages and cable news channels within minutes.
 
