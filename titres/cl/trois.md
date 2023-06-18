@@ -28,4 +28,11 @@ Très active dans les réseaux professionnels, Cécile est:
 ### Métamorphoses
 Réalisation de l'oeuvre «Métamorphoses», une sculpture en bronze et en marbre représentant une tête de cheval, sous la direction de Lucienne Cornet.  
 
+![Alt text](medias/trois/photo-cecile-et-safia.jpg)  
+Cécile Létourneau et Safia Leghari.    
+
+![Alt text](medias/trois/metamorphoses.jpg)  
+L'oeuvre Métamorphoses dans la cafétéria du Cégep de Sainte-Foy  
+  
 ## Couverture de presse
+
