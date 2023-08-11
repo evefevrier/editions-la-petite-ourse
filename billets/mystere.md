@@ -163,9 +163,11 @@ __Le patriarcat est fondé sur le vol et le viol de la virginité de la fille et
 Pour rétablir une élémentaire justice sociale, pour sauver la terre d'une totale soumission à des valeurs masculines (qui privilégient souvent la violence, le pouvoir, l'argent), __il est nécessaire de restaurer ce
 pilier manquant dans notre culture: la relation mère-fille et le respect de la parole et de la virginité féminines. Cela demande une modification des codes symboliques, en particulier du langage, du droit, de la religion.__
 
+<hr>
 
+(*) Le texte original parle de l'_homme noir_ probablement en faisant alusion davantage à la noirceur d'âme qu'à une couleur de peau. Afin d'éviter tout malentendu le terme "agresseur" est utilisé.
+
+<hr>
 Lire aussi:  
 [La dimension spirituelle et religieuse chez Luce Irigaray](http://www.religiologiques.uqam.ca/21/st-cyr.htm)  
 Luce St-Cyr, chargée de cours à l'Université de Sherbrooke.
-
-(*) Le texte original parle de l'_homme noir_ probablement en faisant alusion davantage à la noirceur d'âme qu'à une couleur de peau. Afin d'éviter tout malentendu le terme "agresseur" est utilisé.
