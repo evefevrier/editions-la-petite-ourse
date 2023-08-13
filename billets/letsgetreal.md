@@ -113,7 +113,7 @@ et au déséquilibre des pouvoirs dans les arts.](https://www.fevrierstanley.com
 ![stan1](../media/meeting-stanley.png) ![stan2](../media/chatting-with-stanley.png) ![stan3](../media/confidences.png)
 
 Dans la vingtaine, mon amie Barbara Michaud m'a fait connaître [Luce Irigaray](https://fr.wikipedia.org/wiki/Luce_Irigaray).  
-J'ai flashé sur son essai *«Le mystère oublié des généalogies féminines»*. 
+J'ai flashé sur son essai *«[Le mystère oublié des généalogies féminines](mystere.md)»*. 
   
 ![Le temps de la différence](../media/le-temps-de-la-difference.jpeg)  
   

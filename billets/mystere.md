@@ -165,7 +165,7 @@ pilier manquant dans notre culture: la relation mère-fille et le respect de la 
 
 <hr>
 
-(*) Le texte original parle de l'_homme noir_ probablement en faisant alusion davantage à la noirceur d'âme qu'à une couleur de peau. Afin d'éviter tout malentendu le terme "agresseur" est utilisé.
+(*) Le texte original parle de l'_homme noir_ probablement en faisant allusion davantage à la noirceur d'âme qu'à une couleur de peau. Afin d'éviter tout malentendu le terme "agresseur" est utilisé.
 
 <hr>
 Lire aussi:  
