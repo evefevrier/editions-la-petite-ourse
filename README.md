@@ -25,7 +25,8 @@ Un hâvre pour les petits poucets rêveurs et les pousseuses de la liberté de p
 - [En route vers la réalité](billets/letsgetreal.md)
 - [IA et libre arbitre](billets/le-libre-arbitre.md)
 - [Les veuves](billets/les-veuves.md)
-- [The Broker / Le courtier](billets/trapped.md)
+
+[//]: # (- [The Broker / Le courtier]&#40;billets/trapped.md&#41;)
 - [L'histoire des noirs avec Webster](billets/webster.md)
 - [Le culte des ancêtres](billets/short-expedition-01.md)
 - [Jardin de silice et jardin de sorcières](billets/first-roadtrip.md)
