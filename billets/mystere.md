@@ -109,11 +109,11 @@ S’affirmer comme le souverain d'en-haut crée ou entretient l'existence d'un s
 
 Jupiter se tient plus haut qu'Ouranos dans l'accès au céleste selon la hiérarchie humaine et divine patriarcale, mais ce plus haut implique un plus bas.
 
-Au souverain Zeus, correspond l'infernal Hadès. Ces deux ne peuvent se voir ni se rencontrer. Le Dieu d'en-haut sera le resplendissant, l'éclatant, mais encore le tonnant, le Dieu de la foudre, des rapports violents entre ciel et terre. Le dieu d'en-bas sera celui de l'indifférenciation transformée en enfers, en brouillards, en abîme. Cette puissance infernale du règne des dieux mâles, ce dieu de l'invisible, sera un voleur, un violeur, l'agresseur(*) dont toutes les petites filles ont peur.  
+Au souverain Zeus, correspond l'infernal Hadès. Ces deux ne peuvent se voir ni se rencontrer. Le Dieu d'en-haut sera le resplendissant, l'éclatant, mais encore le tonnant, le Dieu de la foudre, des rapports violents entre ciel et terre. Le dieu d'en-bas sera celui de l'indifférenciation transformée en enfers, en brouillards, en abîme. Cette puissance infernale du règne des dieux mâles, ce dieu de l'invisible, sera un voleur, un violeur, l'homme noir dont toutes les petites filles ont peur.  
 
 N'est-ce pas le double sombre de Jupiter? N'est-ce pas l'ombre de la souveraineté? L'envers ou l'enfer de sa puissance absolue sans partage tendre avec l'autre sexe? Cet Hadès ne correspond-il pas au revers obscur, et, dans notre parler actuel, à l'inconscient désordonné de ses éclats ?
 
-L'agresseur(*) donc prend la petite fille ou l'adolescente. Il la couvre d'ombre. Il l'emmène sous terre dans son domaine. Elle se refuse à son amant.
+L'homme noir donc prend la petite fille ou l'adolescente. Il la couvre d'ombre. Il l'emmène sous terre dans son domaine. Elle se refuse à son amant.
 
 Quand il l'entraîne dans le monde souterrain, elle crie mais nul ne l'entend, ni sa mère ni Zeus son père. Le soleil, dit-on, entend l'adolescente, et peut être Hécate. A moins que ce ne soit le soleil qui lui fasse part du rapt de Korè-Perséphone.
 
@@ -162,10 +162,6 @@ La société, le monde social de l’entre-hommes, la culture patriarcale foncti
 __Le patriarcat est fondé sur le vol et le viol de la virginité de la fille et son utilisation pour un commerce entre hommes, y compris au niveau religieux.__ Ce commerce s'exerce par de la circulation de monnaie mais aussi par l'échange de biens fonciers et pour des enjeux de pouvoirs symboliques ou narcissiques. Sur cette faute originelle, le patriarcat a construit son ciel et ses enfers. A la fille, il a imposé le silence. Il a dissocié son corps de sa parole, sa jouissance de son langage. Il l'a entraînée dans le monde des pulsions masculines, monde où elle est devenue invisible et aveugle pour elle-même, pour sa mère, pour les autres femmes et même pour les hommes, qui peut-être la veulent telle. Le patriarcat a ainsi détruit le lieu le plus précieux de l'amour et de sa fécondité: la relation entre mère et fille dont la petite fille vierge garde le mystère. Cette relation ne dissocie pas l'amour du désir ni le ciel de la terre et elle ne connaît pas l'enfer. Celui-ci apparaît un résultat d'une culture qui a anéanti le bonheur sur la terre en renvoyant l'amour, y compris divin, dans un au-delà de nos relations présentes.
 Pour rétablir une élémentaire justice sociale, pour sauver la terre d'une totale soumission à des valeurs masculines (qui privilégient souvent la violence, le pouvoir, l'argent), __il est nécessaire de restaurer ce
 pilier manquant dans notre culture: la relation mère-fille et le respect de la parole et de la virginité féminines. Cela demande une modification des codes symboliques, en particulier du langage, du droit, de la religion.__
-
-<hr>
-
-(*) Le texte original parle de l'_homme noir_ probablement en faisant allusion davantage à la noirceur d'âme qu'à une couleur de peau. Afin d'éviter tout malentendu le terme "agresseur" est utilisé.
 
 <hr>
 Lire aussi:  
