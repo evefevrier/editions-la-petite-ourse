@@ -19,19 +19,6 @@ Un hâvre pour les petits poucets rêveurs et les pousseuses de la liberté de p
 
 
 ## Projets numériques
-### Robots-romans
-avec les étudiant(e)s de première année de [TIM](https://timcsf.ca/)
-- 🤖🤖🤖 [Robots-roman 2022](https://evefevrier.github.io/robots-roman/)
-- 🤖🤖 [Robots-roman 2021](https://evefevrier.github.io/robots-roman/2021/)
-- 🤖 [Robots-roman 2020](https://evefevrier.github.io/robots-roman/2020/)  
-
-### Jeu "Mots de tête"
-- [Jouer à "Mots de tête"](https://evefevrier.github.io/wordle/)
-- [Consulter le code du jeu et/ou y collaborer](https://github.com/evefevrier/wordle)
-
-### Tutoriels recommandés pour les auteurs et autrices
-- [Git et Github pour les poètes](https://thecodingtrain.com/tracks/git-and-github-for-poets)
-
 ### Le carnet d'UMi 🥷
 - [Le mystère oublié des généalogies féminines](billets/mystere.md)
 - [Intelligence artificielle et enseignement de la programmation](billets/ia-pedagogie-developpement-web.md)
@@ -42,11 +29,23 @@ avec les étudiant(e)s de première année de [TIM](https://timcsf.ca/)
 - [L'histoire des noirs avec Webster](billets/webster.md)
 - [Le culte des ancêtres](billets/short-expedition-01.md)
 - [Jardin de silice et jardin de sorcières](billets/first-roadtrip.md)
+### Robots-romans
+avec les étudiant(e)s de première année de [TIM](https://timcsf.ca/)
+- 🤖🤖🤖 [Robots-roman 2022](https://evefevrier.github.io/robots-roman/)
+- 🤖🤖 [Robots-roman 2021](https://evefevrier.github.io/robots-roman/2021/)
+- 🤖 [Robots-roman 2020](https://evefevrier.github.io/robots-roman/2020/)
 
-## Projets en cours
+### Jeu "Mots de tête"
+- [Jouer à "Mots de tête"](https://evefevrier.github.io/wordle/)
+- [Consulter le code du jeu et/ou y collaborer](https://github.com/evefevrier/wordle)
+
+### Tutoriels recommandés pour les auteurs et autrices
+- [Git et Github pour les poètes](https://thecodingtrain.com/tracks/git-and-github-for-poets)
+
+## Projets de livres en cours
 
 - *[Cécile L'étourneau](titres/cl/README.md)* (dans la collection _Femmes-Oiseaux_)
-- *Ces parts d'ombre*, Richard Baillargeon (peut-être 2024...) 
+- *Ces parts d'ombre*, Richard Baillargeon (à paraître en 2024...) 
  
 ## Partenaires
 [Collectif La Fatigue](https://www.facebook.com/editionslafatigue)  
