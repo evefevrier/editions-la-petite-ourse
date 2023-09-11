@@ -20,6 +20,7 @@ Un hâvre pour les petits poucets rêveurs et les pousseuses de la liberté de p
 
 ## Projets numériques
 ### Le carnet d'UMi 🥷
+- [Sanskrit et chants védiques](sanskrit/c01.md)
 - [Le mystère oublié des généalogies féminines](billets/mystere.md)
 - [Intelligence artificielle et enseignement de la programmation](billets/ia-pedagogie-developpement-web.md)
 - [En route vers la réalité](billets/letsgetreal.md)
