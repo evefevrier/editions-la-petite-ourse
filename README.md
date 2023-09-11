@@ -47,7 +47,7 @@ avec les étudiant(e)s de première année de [TIM](https://timcsf.ca/)
 
 ## Projets de livres en cours
 
-- *[Cécile L'étourneau](titres/cl/README.md)* (dans la collection _Femmes-Oiseaux_)
+- *L'étourneau* (dans la collection _Femmes-Oiseaux_)
 - *Ces parts d'ombre*, Richard Baillargeon (à paraître en 2024...) 
  
 ## Partenaires
