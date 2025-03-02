@@ -4,7 +4,7 @@
 
   [Vikidia](https://fr.vikidia.org/wiki/Petite_Ourse)
 
-_Ce froufrou d'étoiles héberge poucets rêveurs, dames-oiseaux et autres marsupiaux__   
+_Ce froufrou d'étoiles héberge poucets rêveurs, dames-oiseaux et autres marsupiaux_   
   
 ## Mission 
 ### 👁️‍ Combattre les biais cognitifs en proposant de nouveaux angles de vision, des points de vue originaux et non conformistes. 
