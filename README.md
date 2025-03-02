@@ -4,30 +4,26 @@
 
   [Vikidia](https://fr.vikidia.org/wiki/Petite_Ourse)
 
-_Welcome home_, à l'Auberge de la Petite Ourse.  
-Un hâvre pour les petits poucets rêveurs et les pousseuses de la liberté de pensée.
+_Ce froufrou d'étoiles héberge poucets rêveurs, dames-oiseaux et autres marsupiaux__   
   
 ## Mission 
 ### 👁️‍ Combattre les biais cognitifs en proposant de nouveaux angles de vision, des points de vue originaux et non conformistes. 
+ 
 
-
-[//]: # (## Stage de 8 semaines comme Codeuse-Autrice pour *la petite ourse*)
-
-[//]: # (### Non-rémunéré en $ )
-
-[//]: # (Tu as le goût d'écrire tes pensées et les préciser à volonté par des retouches au fil du temps... tu cherches un mode d'expression qui allie spontanéité et réflexion... qui permet d'associer différents media ou même être constitué essentiellement d'un ou un autre media à l'instar d'Instagram mais avec la possibilité de jouer sur la ligne de temps, d'avoir davantage de contrôle d'édition pour se permettre davantage de liberté. Tu choisis ton pseudo si tu prèfères ne pas utiliser ton identité de tous les jours. Pas de censure mais de grandes attentes dans la qualité d'écriture et la pureté des émotions. <a href="mailto:editionslapetiteourse@gmail.com">Écris-moi</a> pour me faire connaître ton intérêt. Il y aura bientôt un lien vers une procédure détaillée.)
-
+## Publications récentes
+1. *Comprendre le patriarcat*, **bell hooks**.
+2. *Le mystère oublié des généalogies féminines*, Luce Irigaray.
+Zines publiés le 8 mars 2025 à l'Atelier d'impression le Pieu. 
+Contribution volontaire : 5$ chaque (50% versé à une maison d'hébergement)
+Des versions numériques sont disponibles gratuitement, urls à venir.
 
 ## Projets numériques
 ### Le carnet d'UMi 🥷
 - [Sanskrit et chants védiques](sanskrit/c01.md)
 - [Le mystère oublié des généalogies féminines](billets/mystere.md)
-- [Intelligence artificielle et enseignement de la programmation](billets/ia-pedagogie-developpement-web.md)
-- [En route vers la réalité](billets/letsgetreal.md)
+- [Intelligence artificielle et enseignement de la programmation](billets/ia-pedagogie-developpement-web.md) 
 - [IA et libre arbitre](billets/le-libre-arbitre.md)
 - [Les veuves](billets/les-veuves.md)
-
-[//]: # (- [The Broker / Le courtier]&#40;billets/trapped.md&#41;)
 - [L'histoire des noirs avec Webster](billets/webster.md)
 - [Le culte des ancêtres](billets/short-expedition-01.md)
 - [Jardin de silice et jardin de sorcières](billets/first-roadtrip.md)
@@ -38,20 +34,21 @@ avec les étudiant(e)s de première année de [TIM](https://timcsf.ca/)
 - 🤖🤖 [Robots-roman 2021](https://evefevrier.github.io/robots-roman/2021/)
 - 🤖 [Robots-roman 2020](https://evefevrier.github.io/robots-roman/2020/)
 
-### Jeu "Mots de tête"
-- [Jouer à "Mots de tête"](https://evefevrier.github.io/wordle/)
-- [Consulter le code du jeu et/ou y collaborer](https://github.com/evefevrier/wordle)
+### Jeux 
+1. __Mots de tête__
+[Jouer à "Mots de tête"](https://evefevrier.github.io/wordle/)
+[Consulter le code du jeu et/ou y collaborer](https://github.com/evefevrier/wordle)
+[Jouer à Mots de tête : version de Christopher](#)
+2. __La tactique des chèvres__ (prochain projet)
+[Aperçu du jeu](la-tactique-des-chevres/pdf/BaghChal_regles-du-jeu.pdf)
 
 ### Tutoriels recommandés pour les auteurs et autrices
 - [Git et Github pour les poètes](https://thecodingtrain.com/tracks/git-and-github-for-poets)
 
-## Projets de livres en cours
-
-- *L'étourneau* (dans la collection _Femmes-Oiseaux_)
-- *Ces parts d'ombre*, Richard Baillargeon (à paraître en 2024...) 
+## À paraître
+- *Ces parts d'ombre*, Richard Baillargeon (2025) 
  
-## Partenaires
-[Collectif La Fatigue](https://www.facebook.com/editionslafatigue)  
+## Partenaire
 [Le Pieu, atelier d'impression](https://www.facebook.com/atelierlepieu)  
   
 ![lePieu-riso-mz](media/lePieu-riso-mz.jpeg)
@@ -60,6 +57,6 @@ avec les étudiant(e)s de première année de [TIM](https://timcsf.ca/)
 
 ## Contact 
 [Ève Février](mailto:editionsLaPetiteOurse@gmail.com)  
-[Éditions la petite Ourse](https://evefevrier.github.io/editions-la-petite-ourse/)
+[Éditions la petite Ourse](https:/editionslapetiteourse.com/)
 
  

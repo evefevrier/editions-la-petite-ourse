@@ -1,9 +1,17 @@
+# Base
+.DS_Store
+Icon?
+~*
+
+# Configs de l'éditeur
+.vscode/
+
+# Sections à ne pas publier
+billets/brouillons/
+_private/
+titres/
+
+# Documentation  
 # https://git-scm.com/docs/gitignore
 # https://help.github.com/articles/ignoring-files
 # Example .gitignore files: https://github.com/github/gitignore
-/node_modules/
-/.DS_Store
-.DS_Store
-Icon?
-.idea/
-.vscode/
