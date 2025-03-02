@@ -12,10 +12,10 @@ _Ce froufrou d'étoiles héberge poucets rêveurs, dames-oiseaux et autres marsu
 
 ## Publications récentes
 1. *Comprendre le patriarcat*, **bell hooks**.
-2. *Le mystère oublié des généalogies féminines*, Luce Irigaray.
-Zines publiés le 8 mars 2025 à l'Atelier d'impression le Pieu. 
-Contribution volontaire : 5$ chaque (50% versé à une maison d'hébergement)
-Des versions numériques sont disponibles gratuitement, urls à venir.
+2. *Le mystère oublié des généalogies féminines*, Luce Irigaray.  
+Zines publiés le 8 mars 2025 à l'Atelier d'impression le Pieu.   
+Contribution volontaire : 5$ chaque (50% versé à une maison d'hébergement)  
+Des versions numériques sont disponibles gratuitement, urls à venir.  
 
 ## Projets numériques
 ### Le carnet d'UMi 🥷
@@ -35,12 +35,12 @@ avec les étudiant(e)s de première année de [TIM](https://timcsf.ca/)
 - 🤖 [Robots-roman 2020](https://evefevrier.github.io/robots-roman/2020/)
 
 ### Jeux 
-1. __Mots de tête__
-[Jouer à "Mots de tête"](https://evefevrier.github.io/wordle/)
-[Consulter le code du jeu et/ou y collaborer](https://github.com/evefevrier/wordle)
-[Jouer à Mots de tête : version de Christopher](#)
-2. __La tactique des chèvres__ (prochain projet)
-[Aperçu du jeu](la-tactique-des-chevres/pdf/BaghChal_regles-du-jeu.pdf)
+1. __Mots de tête__  
+[Jouer à "Mots de tête"](https://evefevrier.github.io/wordle/)  
+[Consulter le code du jeu et/ou y collaborer](https://github.com/evefevrier/wordle)  
+[Jouer à Mots de tête : version de Christopher](#)  
+2. __La tactique des chèvres__ (prochain projet)  
+[Aperçu du jeu](la-tactique-des-chevres/pdf/bagh-chal_regles-du-jeu.pdf)  
 
 ### Tutoriels recommandés pour les auteurs et autrices
 - [Git et Github pour les poètes](https://thecodingtrain.com/tracks/git-and-github-for-poets)
