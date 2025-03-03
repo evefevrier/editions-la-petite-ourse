@@ -7,12 +7,16 @@
 _Ce froufrou d'étoiles héberge poucets rêveurs, dames-oiseaux et autres marsupiaux_   
   
 ## Mission 
-### 👁️‍ Combattre les biais cognitifs en proposant de nouveaux angles de vision, des points de vue originaux et non conformistes. 
+### 👁️‍ Déconstruire les biais cognitifs en proposant de nouveaux angles de vision, des points de vue originaux et non conformistes. 
  
 
 ## Publications récentes
-1. *Comprendre le patriarcat*, **bell hooks**.
-2. *Le mystère oublié des généalogies féminines*, Luce Irigaray.  
+1. *Comprendre le patriarcat*,   
+**bell hooks**.
+2. *Le mystère oublié des généalogies féminines*,   
+**Luce Irigaray**.  
+![alt text](media/recto.jpeg)
+![alt text](media/verso.jpeg)
 Zines publiés le 8 mars 2025 à l'Atelier d'impression le Pieu.   
 Contribution volontaire : 5$ chaque (50% versé à une maison d'hébergement)  
 Des versions numériques sont disponibles gratuitement, urls à venir.  
