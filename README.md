@@ -13,12 +13,11 @@ _Ce froufrou d'étoiles héberge poucets rêveurs, dames-oiseaux et autres marsu
  
 
 ## Publications récentes
-1. *Le mystère oublié des généalogies féminines*,   
+1. *Le mystère oublié des généalogies féminines*,     
 **Luce Irigaray**.  
-2. *Comprendre le patriarcat*,   
+2. *Comprendre le patriarcat*,     
 **bell hooks**.
-![alt text](media/recto.jpeg)
-![alt text](media/verso.jpeg)
+![alt text](media/recto.jpeg) ![alt text](media/verso.jpeg)    
 Zines publiés le 8 mars 2025 à l'Atelier d'impression le Pieu. Offerts à 5$ en contribution volontaire (50% versé à une maison d'hébergement). Des versions numériques sont disponibles gratuitement, urls à venir.  
 
 ## À paraître
@@ -27,17 +26,17 @@ Zines publiés le 8 mars 2025 à l'Atelier d'impression le Pieu. Offerts à 5$ e
 ## Projets numériques
 ### Jeux  
 1. __La tactique des chèvres__ (prochain projet)  
-Le développement de ce jeu est une commande de la [Guilde de la potière jalouse](https://fenouilcurcuma.github.io/guildedelapotierejalouse/).  
-[Aperçu du jeu](la-tactique-des-chevres/pdf/bagh-chal_regles-du-jeu.pdf)  
-2. __Mots de tête__  
-[Consulter le code du jeu et/ou y collaborer](https://github.com/evefevrier/mots-de-tete) 
-[Jouer à Mots de tête : version initiale](https://evefevrier.github.io/mots-de-tete/)   
-[Jouer à Mots de tête : version de Christopher](https://christopherbyatt.github.io/mots-de-tete/) 
+Le développement de ce jeu est une commande de la [Guilde de la potière jalouse](https://fenouilcurcuma.github.io/guildedelapotierejalouse/).    
+[Aperçu du jeu](la-tactique-des-chevres/pdf/bagh-chal_regles-du-jeu.pdf)    
+2. __Mots de tête__    
+[Consulter le code du jeu et/ou y collaborer](https://github.com/evefevrier/mots-de-tete)   
+[Jouer à Mots de tête : version initiale](https://evefevrier.github.io/mots-de-tete/)     
+[Jouer à Mots de tête : version de Christopher](https://christopherbyatt.github.io/mots-de-tete/)   
 
 ### Blogues
-- Le carnet d'UMi 🥷
-  - [Sanskrit et chants védiques](sanskrit/c01.md)
-  - [Le mystère oublié des généalogies féminines](billets/mystere.md)
+- Le carnet d'UMi 🥷  
+  - [Sanskrit et chants védiques](sanskrit/c01.md)  
+  - [Le mystère oublié des généalogies féminines](billets/mystere.md)  
   - [Intelligence artificielle et enseignement de la programmation](billets/ia-pedagogie-developpement-web.md) 
   - [IA et libre arbitre](billets/le-libre-arbitre.md)
   - [Les veuves](billets/les-veuves.md)
@@ -65,6 +64,4 @@ avec les étudiant(e)s de première année de [TIM](https://timcsf.ca/)
 
 ## Contact 
 [Ève Février](mailto:editionsLaPetiteOurse@gmail.com)  
-[Éditions la petite Ourse](https:/editionslapetiteourse.com/)
-
- 
+[Éditions la petite Ourse](https://evefevrier.github.io/editions-la-petite-ourse/)
