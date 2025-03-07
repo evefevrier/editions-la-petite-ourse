@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="../css/style.css">
+<link rel="stylesheet" href="css/style.css">
 
 # Éditions La Petite Ourse
 
@@ -29,9 +29,9 @@ Zines publiés le 8 mars 2025 à l'Atelier d'impression le Pieu. Offerts à 5$ e
 Le développement de ce jeu est une commande de la [Guilde de la potière jalouse](https://fenouilcurcuma.github.io/guildedelapotierejalouse/).    
 [Aperçu du jeu](la-tactique-des-chevres/pdf/bagh-chal_regles-du-jeu.pdf)    
 2. __Mots de tête__    
-[Consulter le code du jeu et/ou y collaborer](https://github.com/evefevrier/mots-de-tete)   
-[Jouer à Mots de tête : version initiale](https://evefevrier.github.io/mots-de-tete/)     
-[Jouer à Mots de tête : version de Christopher](https://christopherbyatt.github.io/mots-de-tete/)   
+[Consulter le code du jeu et/ou y collaborer](https://github.com/evefevrier/mots-de-tete)     
+[Jouer à Mots de tête : version initiale](https://evefevrier.github.io/mots-de-tete/)       
+[Jouer à Mots de tête : version de Christopher](https://christopherbyatt.github.io/mots-de-tete/)     
 
 ### Blogues
 - Le carnet d'UMi 🥷  
