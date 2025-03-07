@@ -16,8 +16,10 @@ _Ce froufrou d'étoiles héberge poucets rêveurs, dames-oiseaux et autres marsu
 1. *Le mystère oublié des généalogies féminines*,     
 **Luce Irigaray**.  
 2. *Comprendre le patriarcat*,     
-**bell hooks**.
-![alt text](media/recto.jpeg) ![alt text](media/verso.jpeg)    
+**bell hooks**.  
+  
+![alt text](media/recto.jpeg) ![alt text](media/verso.jpeg)  
+     
 Zines publiés le 8 mars 2025 à l'Atelier d'impression le Pieu. Offerts à 5$ en contribution volontaire (50% versé à une maison d'hébergement). Des versions numériques sont disponibles gratuitement, urls à venir.  
 
 ## À paraître
