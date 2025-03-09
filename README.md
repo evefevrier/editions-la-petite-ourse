@@ -2,11 +2,11 @@
 
 # Éditions La Petite Ourse
 
-> Je m’en allais, les poings dans mes poches crevées ;
-Mon paletot soudain devenait idéal ;
-J’allais sous le ciel, Muse, et j’étais ton féal ;
-Oh ! là là ! que d’amours splendides j’ai rêvées !
--- Arthur
+> Je m’en allais, les poings dans mes poches crevées ;  
+Mon paletot soudain devenait idéal ;  
+J’allais sous le ciel, Muse, et j’étais ton féal ;  
+Oh ! là là ! que d’amours splendides j’ai rêvées !  
+> -- Arthur  
   
 ## Mission 
 ### 👁️‍ Déconstruire les biais cognitifs en proposant de nouveaux angles de vision, des points de vue originaux et non conformistes. 
@@ -14,7 +14,7 @@ Oh ! là là ! que d’amours splendides j’ai rêvées !
 
 ## Lancement de la collection la Damoiseau  
 
-Voici les deux premiers titres d'une collection dont l'objectif est de mettre en lumière des textes majeurs dans l'évolution de la pensée féministe. L'icône, la signature de cette collection est un sceau de femme-oiseau.
+Voici les deux premiers titres d'une collection dont l'objectif est de mettre en lumière des textes majeurs dans l'évolution de la pensée féministe. L'insigne de cette collection est un sceau de femme-oiseau ou déesse-oiseau du néolithique.
 
 1. _Le mystère oublié des généalogies féminines_,
 **Luce Irigaray**.
@@ -24,7 +24,7 @@ Voici les deux premiers titres d'une collection dont l'objectif est de mettre en
   
 ![alt text](media/recto.jpeg) ![alt text](media/verso.jpeg)  
      
-Zines publiés le 8 mars 2025 à l'Atelier d'impression le Pieu. Offerts à 5$ en contribution volontaire (50% versé à une maison d'hébergement). Des versions numériques sont disponibles gratuitement, urls à venir.  
+Zines publiés le 8 mars 2025 à l'Atelier d'impression le Pieu. Offerts à 5$ en contribution volontaire (50% versé à une maison d'hébergement). Des versions numériques sont disponibles gratuitement, urls à venir. [Contactez-nous](mailto:editionsLaPetiteOurse@gmail.com) pour obtenir des exemplaires imprimés; nous faisons la livraison dans le périmètre des villes de Québec et Lévis. 
 
 ## À paraître
 - *Ces parts d'ombre*, Richard Baillargeon (2025) 
