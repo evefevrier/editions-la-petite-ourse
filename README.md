@@ -28,8 +28,10 @@ Zines publiés le 8 mars 2025 à l'Atelier d'impression le Pieu. Offerts à 5$ e
 
 ## À paraître
 - *Ces parts d'ombre*, Richard Baillargeon (2025)
-Un livre d'artiste, un carnet d'images et de textes issus d'un voyage en Inde. Trilingue : français, hindi et english.
+Un livre d'artiste, un carnet d'images et de textes issus d'un voyage en Inde. Trilingue : français, hindi et english.  
+  
 ![alt text](media/22.jpeg)  ![alt text](media/23.png)
+  
  
 ## Projets numériques
 ### Jeux  
