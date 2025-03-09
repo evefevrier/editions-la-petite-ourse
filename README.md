@@ -27,7 +27,9 @@ Voici les deux premiers titres d'une collection dont l'objectif est de mettre en
 Zines publiés le 8 mars 2025 à l'Atelier d'impression le Pieu. Offerts à 5$ en contribution volontaire (50% versé à une maison d'hébergement). Des versions numériques sont disponibles gratuitement, urls à venir. [Contactez-nous](mailto:editionsLaPetiteOurse@gmail.com) pour obtenir des exemplaires imprimés; nous faisons la livraison dans le périmètre des villes de Québec et Lévis. 
 
 ## À paraître
-- *Ces parts d'ombre*, Richard Baillargeon (2025) 
+- *Ces parts d'ombre*, Richard Baillargeon (2025)
+Un livre d'artiste, un carnet d'images et de textes issus d'un voyage en Inde. Trilingue : français, hindi et english.
+![alt text](media/22.jpeg)  ![alt text](media/23.png)
  
 ## Projets numériques
 ### Jeux  
