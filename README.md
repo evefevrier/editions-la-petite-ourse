@@ -12,13 +12,17 @@ Oh ! là là ! que d’amours splendides j’ai rêvées !
 ### 👁️‍ Déconstruire les biais cognitifs en proposant de nouveaux angles de vision, des points de vue originaux et non conformistes. 
  
 
-## Lancement *Ces parts d'ombre* de Richard Baillargeon 
+## Parution de *Ces parts d'ombre* de Richard Baillargeon 
+
+Les Éditions la petite ourse annonce fièrement la sortie
+de son premier livre photographique :  
 
 ![Couverture de Ces parts d'ombre](media/couverture-cpo.png) 
 
-__Mercredi 3 juin 2026, 17h à 19h. 
+__LANCEMENT.   
+Mercredi 3 juin 2026, 17h à 19h. 
 Librairie La Liberté. 
-1073, route de l’Église, Québec (QC), G1V 3W2__
+1073, route de l’Église, Québec (QC), G1V 3W2__. 
 
 Dans cet ouvrage, Richard Baillargeon, anthropologue de formation et artiste reconnu, nous convie à une dérive sensible et contemplative à travers l’Inde. Chaque chapitre s'ouvre comme un souffle, porté par des textes poétiques présentés en français et en hindi, complétés par une version anglaise en fin d’ouvrage. La trame de ce carnet de route est finement tissée de 52 photographies noir et blanc et 18 illustrations couleur. 
 
