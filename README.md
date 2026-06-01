@@ -19,10 +19,7 @@ de son premier livre photographique :
 
 ![Couverture de Ces parts d'ombre](media/couverture-cpo.png) 
 
-__LANCEMENT.   
-Mercredi 3 juin 2026, 17h à 19h. 
-Librairie La Liberté. 
-1073, route de l’Église, Québec (QC), G1V 3W2__. 
+__Le LANCEMENT est le mercredi 3 juin 2026 de 17h à 19h à la Librairie La Liberté au 1073, route de l’Église, Québec (QC), G1V 3W2__   
 
 Dans cet ouvrage, Richard Baillargeon, anthropologue de formation et artiste reconnu, nous convie à une dérive sensible et contemplative à travers l’Inde. Chaque chapitre s'ouvre comme un souffle, porté par des textes poétiques présentés en français et en hindi, complétés par une version anglaise en fin d’ouvrage. La trame de ce carnet de route est finement tissée de 52 photographies noir et blanc et 18 illustrations couleur. 
 
