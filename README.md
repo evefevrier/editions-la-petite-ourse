@@ -12,7 +12,26 @@ Oh ! là là ! que d’amours splendides j’ai rêvées !
 ### 👁️‍ Déconstruire les biais cognitifs en proposant de nouveaux angles de vision, des points de vue originaux et non conformistes. 
  
 
-## Lancement de la collection la Damoiseau  
+## Lancement *Ces parts d'ombre* de Richard Baillargeon 
+
+![Couverture de Ces parts d'ombre](media/couverture-cpo.png) 
+
+__Mercredi 3 juin 2026, 17h à 19h. 
+Librairie La Liberté. 
+1073, route de l’Église, Québec (QC), G1V 3W2__
+
+Dans cet ouvrage, Richard Baillargeon, anthropologue de formation et artiste reconnu, nous convie à une dérive sensible et contemplative à travers l’Inde. Chaque chapitre s'ouvre comme un souffle, porté par des textes poétiques présentés en français et en hindi, complétés par une version anglaise en fin d’ouvrage. La trame de ce carnet de route est finement tissée de 52 photographies noir et blanc et 18 illustrations couleur. 
+
+« Des images et des mots pour dire la perte des repères, les états changeants de la rencontre des êtres et des choses. Des images et des mots pour dire des lieux inconnus, mais surtout pour dire l’expérience d’une altérité poi-gnante et, très souvent aussi, déstabilisante. Se trouver là, être là, dans cet ailleurs où nous sommes et demeurons fondamentalement des étrangers aux prises avec ce qui nous semble être un formidable chaos du sens, des sens. Marcher, s’arrêter, poser le regard, faire image : tels sont les pôles de l’expérience première. Par la suite, dans l’exercice de la mémoire, du souvenir, mettre des mots, choisir des images pour faire retour sur cette expérience.
+Les images sont entrecoupées de courts récits liés à l’expérience de cet ailleurs indien au fil des déambulations au jour le jour. Des images et des mots qui sont finalement comme une série d’arrêts sur image, de cillements du regard. Images de nature et de ville, petites vignettes de l’espace et des aléas du regard alternent avec des images trouvées provenant d’une iconographie glanée dans cet univers fascinant mais combien déroutant qu’est le sous-continent indien [extrait du texte de présentation] ».
+
+Ce livre s’impose comme une pièce de collection incontournable pour les passionnés de photographie contemporaine et de récits de voyage. 
+
+Ces parts d’ombre sera disponible dès le 3 juin 2026 à la Librairie La Liberté et prochainement via le site leslibraires.ca.
+
+![Muraille de Jaipur](media/22.jpeg)  ![Dans le dédale des rues, on a peine à s'y retrouver. Baldev le chauffeur, s'impatiente, il ne comprends pas bien où nous voulons aller.](media/23.png)
+
+## Collection la Damoiseau  
 
 Voici les deux premiers titres d'une collection dont l'objectif est de mettre en lumière des textes majeurs dans l'évolution de la pensée féministe. L'insigne de cette collection est un sceau de femme-oiseau ou déesse-oiseau du néolithique.
 
@@ -24,14 +43,7 @@ Voici les deux premiers titres d'une collection dont l'objectif est de mettre en
   
 ![alt text](media/recto.jpeg) ![alt text](media/verso.jpeg)  
      
-Zines publiés le 8 mars 2025 à l'Atelier d'impression le Pieu. Offerts à 5$ en contribution volontaire (50% versé à une maison d'hébergement). Des versions numériques sont disponibles gratuitement, urls à venir. [Contactez-nous](mailto:editionsLaPetiteOurse@gmail.com) pour obtenir des exemplaires imprimés; nous faisons la livraison dans le périmètre des villes de Québec et Lévis. 
-
-## À paraître
-- *Ces parts d'ombre*, Richard Baillargeon (2025)
-Un livre d'artiste, un carnet d'images et de textes issus d'un voyage en Inde. Trilingue : français, hindi et english.  
-  
-![alt text](media/22.jpeg)  ![alt text](media/23.png)
-  
+Zines publiés le 8 mars 2025 à l'Atelier d'impression le Pieu. Offerts à 5$ en contribution volontaire (50% versé à une maison d'hébergement). Des versions numériques sont disponibles gratuitement, urls à venir. [Contactez-nous](mailto:editionsLaPetiteOurse@gmail.com) pour obtenir des exemplaires imprimés; nous faisons la livraison dans le périmètre des villes de Québec et Lévis.   
  
 ## Projets numériques
 ### Jeux  
