@@ -7,7 +7,7 @@ __Sortie, l'histoire de noirs à Québec, avec Webster, samedi 1er octobre 2022_
 
 Très très cool de faire cette marche de 2 heures un beau samedi matin d'automne, bien frais avec [Webster qui nous rap un petit bout d'histoire](https://www.youtube.com/watch?v=OdL14IfV3U0). 
 
-![QR-Code](../media/webster-et-karim.png)
+![QR-Code](../media/webster-qrcode.png)
 
 En plus, le sandwich végétarien gratuit... miam! miam!   
   
