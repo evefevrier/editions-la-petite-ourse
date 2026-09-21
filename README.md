@@ -44,7 +44,7 @@ Voici les deux premiers titres d'une collection dont l'objectif est de mettre en
    **Luce Irigaray**. (version pdf)](pdf/mystere-oublie-des-genealogies-feminines_luce-irigaray.pdf)
 
 1. [_Comprendre le patriarcat_,
-   **bell hooks** (version pdf)](pdf/bell-hooks_Comprendre-le-patriarcat_version-presque-finale.pdf)
+   **bell hooks** (version pdf)](pdf/bell-hooks_Comprendre-le-patriarcat.pdf)
 
 ![alt text](media/recto.jpeg) ![alt text](media/verso.jpeg)
 
