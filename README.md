@@ -16,6 +16,10 @@
 
 Nous serons avec la Guilde de la potière jalouse et l'auteur-artiste-photographe Richard Baillargeon au formidable événement sur le livre d'art : [Volume 9 MTL](https://volumemtl.art/volume-9-mtl-30-sept-8-oct-2026-montreal/). Venez nous rencontrer à l’Agora du pavillon Cœur des sciences de l’UQAM, 175, ave. Président-Kennedy, Montréal (Québec) H2X 3P2 (métro Place des Arts) **le 3 et 4 octobre de 11h – 18h**, entrée gratuite.
 
+De plus, Richard Baillargeon participe avec ses vieux complices Michel Campeau, Bertrand Carrière, Serge Clément et Normand Rajotte à une **table ronde sur le livre photographique** samedi le 3 octobre, 14:30.
+
+L'historienne de l'art Mona Hakim agira comme modératrice.
+
 ## Parution de _Ces parts d'ombre_ de Richard Baillargeon
 
 Les Éditions la petite ourse annonce fièrement la sortie
@@ -23,7 +27,8 @@ de son premier livre photographique :
 
 ![Couverture de Ces parts d'ombre](media/couverture-cpo.png)
 
-**Un premier LANCEMENT a eu lieu le mercredi 3 juin 2026 de 17h à 19h à la Librairie La Liberté au 1073, route de l’Église, Québec et nous espérons en faire un prochainement à Montréal... À SUIVRE**
+**Un premier LANCEMENT a eu lieu le mercredi 3 juin 2026 de 17h à 19h à la Librairie La Liberté au 1073, route de l’Église, Québec**
+**Un second lancement a eu lieu le 26 juin n'était-ce pas l'été au 6792 boulevard Saint-Laurent, Montréal**
 
 Dans cet ouvrage, Richard Baillargeon, anthropologue de formation et artiste reconnu, nous convie à une dérive sensible et contemplative à travers l’Inde. Chaque chapitre s'ouvre comme un souffle, porté par des textes poétiques présentés en français et en hindi, complétés par une version anglaise en fin d’ouvrage. La trame de ce carnet de route est finement tissée de 52 photographies noir et blanc et 18 illustrations couleur.
 
